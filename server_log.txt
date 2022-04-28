@@ -1,0 +1,3326 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:06:06] filterscripts = ""  (string)
+[22:06:06] 
+[22:06:06] Server Plugins
+[22:06:06] --------------
+[22:06:06]  Loading plugin: crashdetect
+[22:06:06]   CrashDetect plugin 4.19.4
+[22:06:06]   Loaded.
+[22:06:06]  Loading plugin: streamer
+[22:06:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:06:06]   Loaded.
+[22:06:06]  Loading plugin: sscanf
+[22:06:06] 
+
+[22:06:06]  ===============================
+
+[22:06:06]       sscanf plugin loaded.     
+
+[22:06:06]          Version:  2.8.3        
+
+[22:06:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:06:06]  ===============================
+
+[22:06:06]   Loaded.
+[22:06:06]  Loading plugin: mysql
+[22:06:06]  >> plugin.mysql: R41-4 successfully loaded.
+[22:06:06]   Loaded.
+[22:06:06]  Loading plugin: pawncmd
+[22:06:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:06:06]   Loaded.
+[22:06:06]  Loading plugin: RouteConnectorPlugin
+[22:06:06]   Loaded.
+[22:06:06]  Loaded 6 plugins.
+
+[22:06:06] 
+[22:06:06] Filterscripts
+[22:06:06] ---------------
+[22:06:06]   Loaded 0 filterscripts.
+
+[22:06:06] Подключение к базе данных удалось
+[22:06:06] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[22:06:06] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[22:06:06] [Продуктовый завод] Упаковано: 10000 кг: 
+[22:06:06] [Баржа] Оружия на борту: 20 шт: 
+[22:06:06] [КАСС] На складе: 20 шт: 
+[22:06:06] [Лесопилка] На складе:: 10000 кг: 
+[22:06:06] [Шахта] На складе: 10000 кг
+[22:06:07] Number of vehicle models: 0
+[22:06:07] ===============================
+[22:06:07] ===============================
+[22:06:07] Результат загрузки ФРАКЦИЙ:
+[22:06:07] Найдено строк в БД:		[23]
+[22:06:07] ID началы массива:		[0]
+[22:06:07] Загружены строк: [24/24]	[ГОТОВО]
+[22:06:07] ===============================
+[22:06:07] Результат загрузки ТЕРРЕТОРИЙ:
+[22:06:07] Найдено строк в БД:		[124]
+[22:06:07] Загружены строк: [123/123]	[ГОТОВО]
+[22:06:08] ===============================
+[22:06:08] Результат загрузки ДОМОВ:
+[22:06:08] Найдено строк в БД:		[735]
+[22:06:08] ID началы массива:		[0]
+[22:06:08] Загружены строк: [736/736]	[ГОТОВО]
+[22:06:08] ===============================
+[22:06:08] Результат загрузки БИЗНЕСОВ:
+[22:06:08] Найдено строк в БД:		[138]
+[22:06:08] ID началы массива:		[0]
+[22:06:08] Загружены строк: [139/139]	[ГОТОВО]
+[22:06:08] ===============================
+[22:06:08] Результат загрузки АЗС:
+[22:06:08] Найдено строк в БД:		[15]
+[22:06:08] ID началы массива:		[0]
+[22:06:08] Загружены строк: [16/16]	[ГОТОВО]
+[22:06:24] [connection] 127.0.0.1:8037 requests connection cookie.
+[22:06:25] [connection] incoming connection: 127.0.0.1:8037 id: 0
+[22:06:26] [join] Angel_Leija has joined the server (0:127.0.0.1)
+[22:07:17] [part] Angel_Leija has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:13:33] filterscripts = ""  (string)
+[22:13:33] 
+[22:13:33] Server Plugins
+[22:13:33] --------------
+[22:13:33]  Loading plugin: crashdetect
+[22:13:33]   CrashDetect plugin 4.19.4
+[22:13:33]   Loaded.
+[22:13:33]  Loading plugin: streamer
+[22:13:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:13:33]   Loaded.
+[22:13:33]  Loading plugin: sscanf
+[22:13:33] 
+
+[22:13:33]  ===============================
+
+[22:13:33]       sscanf plugin loaded.     
+
+[22:13:33]          Version:  2.8.3        
+
+[22:13:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:13:33]  ===============================
+
+[22:13:33]   Loaded.
+[22:13:33]  Loading plugin: mysql
+[22:13:33]  >> plugin.mysql: R41-4 successfully loaded.
+[22:13:33]   Loaded.
+[22:13:33]  Loading plugin: pawncmd
+[22:13:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:13:33]   Loaded.
+[22:13:33]  Loading plugin: RouteConnectorPlugin
+[22:13:33]   Loaded.
+[22:13:33]  Loaded 6 plugins.
+
+[22:13:33] 
+[22:13:33] Filterscripts
+[22:13:33] ---------------
+[22:13:33]   Loaded 0 filterscripts.
+
+[22:13:33] Подключение к базе данных удалось
+[22:13:33] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[22:13:33] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[22:13:33] [Продуктовый завод] Упаковано: 10000 кг: 
+[22:13:33] [Баржа] Оружия на борту: 20 шт: 
+[22:13:33] [КАСС] На складе: 20 шт: 
+[22:13:33] [Лесопилка] На складе:: 10000 кг: 
+[22:13:33] [Шахта] На складе: 10000 кг
+[22:13:34] Number of vehicle models: 0
+[22:13:34] ===============================
+[22:13:34] ===============================
+[22:13:34] Результат загрузки ФРАКЦИЙ:
+[22:13:34] Найдено строк в БД:		[23]
+[22:13:34] ID началы массива:		[0]
+[22:13:34] Загружены строк: [24/24]	[ГОТОВО]
+[22:13:34] ===============================
+[22:13:34] Результат загрузки ТЕРРЕТОРИЙ:
+[22:13:34] Найдено строк в БД:		[124]
+[22:13:34] Загружены строк: [123/123]	[ГОТОВО]
+[22:13:35] ===============================
+[22:13:35] Результат загрузки ДОМОВ:
+[22:13:35] Найдено строк в БД:		[735]
+[22:13:35] ID началы массива:		[0]
+[22:13:35] Загружены строк: [736/736]	[ГОТОВО]
+[22:13:35] ===============================
+[22:13:35] Результат загрузки БИЗНЕСОВ:
+[22:13:35] Найдено строк в БД:		[138]
+[22:13:35] ID началы массива:		[0]
+[22:13:35] Загружены строк: [139/139]	[ГОТОВО]
+[22:13:35] ===============================
+[22:13:35] Результат загрузки АЗС:
+[22:13:35] Найдено строк в БД:		[15]
+[22:13:35] ID началы массива:		[0]
+[22:13:35] Загружены строк: [16/16]	[ГОТОВО]
+[22:13:48] [connection] 127.0.0.1:18925 requests connection cookie.
+[22:13:49] [connection] incoming connection: 127.0.0.1:18925 id: 0
+[22:13:49] [join] Angel_Leija has joined the server (0:127.0.0.1)
+[22:15:07] [part] Angel_Leija has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:49:28] filterscripts = ""  (string)
+[22:49:28] 
+[22:49:28] Server Plugins
+[22:49:28] --------------
+[22:49:28]  Loading plugin: crashdetect
+[22:49:28]   CrashDetect plugin 4.19.4
+[22:49:28]   Loaded.
+[22:49:28]  Loading plugin: streamer
+[22:49:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:49:28]   Loaded.
+[22:49:28]  Loading plugin: sscanf
+[22:49:28] 
+
+[22:49:28]  ===============================
+
+[22:49:28]       sscanf plugin loaded.     
+
+[22:49:28]          Version:  2.8.3        
+
+[22:49:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:49:28]  ===============================
+
+[22:49:28]   Loaded.
+[22:49:28]  Loading plugin: mysql
+[22:49:28]  >> plugin.mysql: R41-4 successfully loaded.
+[22:49:28]   Loaded.
+[22:49:28]  Loading plugin: pawncmd
+[22:49:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:49:28]   Loaded.
+[22:49:28]  Loading plugin: RouteConnectorPlugin
+[22:49:28]   Loaded.
+[22:49:28]  Loaded 6 plugins.
+
+[22:49:28] 
+[22:49:28] Filterscripts
+[22:49:28] ---------------
+[22:49:28]   Loaded 0 filterscripts.
+
+[22:49:28] Подключение к базе данных удалось
+[22:49:28] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[22:49:28] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[22:49:28] [Продуктовый завод] Упаковано: 10000 кг: 
+[22:49:28] [Баржа] Оружия на борту: 20 шт: 
+[22:49:28] [КАСС] На складе: 20 шт: 
+[22:49:28] [Лесопилка] На складе:: 10000 кг: 
+[22:49:28] [Шахта] На складе: 10000 кг
+[22:49:28] Number of vehicle models: 0
+[22:49:28] ===============================
+[22:49:28] ===============================
+[22:49:28] Результат загрузки ФРАКЦИЙ:
+[22:49:28] Найдено строк в БД:		[23]
+[22:49:28] ID началы массива:		[0]
+[22:49:28] Загружены строк: [24/24]	[ГОТОВО]
+[22:49:28] ===============================
+[22:49:28] Результат загрузки ТЕРРЕТОРИЙ:
+[22:49:28] Найдено строк в БД:		[124]
+[22:49:28] Загружены строк: [123/123]	[ГОТОВО]
+[22:49:30] ===============================
+[22:49:30] Результат загрузки ДОМОВ:
+[22:49:30] Найдено строк в БД:		[735]
+[22:49:30] ID началы массива:		[0]
+[22:49:30] Загружены строк: [736/736]	[ГОТОВО]
+[22:49:30] ===============================
+[22:49:30] Результат загрузки БИЗНЕСОВ:
+[22:49:30] Найдено строк в БД:		[138]
+[22:49:30] ID началы массива:		[0]
+[22:49:30] Загружены строк: [139/139]	[ГОТОВО]
+[22:49:30] ===============================
+[22:49:30] Результат загрузки АЗС:
+[22:49:30] Найдено строк в БД:		[15]
+[22:49:30] ID началы массива:		[0]
+[22:49:30] Загружены строк: [16/16]	[ГОТОВО]
+[22:49:47] [connection] 127.0.0.1:1027 requests connection cookie.
+[22:49:48] [connection] incoming connection: 127.0.0.1:1027 id: 0
+[22:49:48] [join] Angel_Leija has joined the server (0:127.0.0.1)
+[22:50:49] [part] Angel_Leija has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:37:27] filterscripts = ""  (string)
+[22:37:27] 
+[22:37:27] Server Plugins
+[22:37:27] --------------
+[22:37:27]  Loading plugin: crashdetect
+[22:37:27]   CrashDetect plugin 4.19.4
+[22:37:27]   Loaded.
+[22:37:27]  Loading plugin: streamer
+[22:37:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:37:27]   Loaded.
+[22:37:27]  Loading plugin: sscanf
+[22:37:27] 
+
+[22:37:27]  ===============================
+
+[22:37:27]       sscanf plugin loaded.     
+
+[22:37:27]          Version:  2.8.3        
+
+[22:37:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:37:27]  ===============================
+
+[22:37:27]   Loaded.
+[22:37:27]  Loading plugin: mysql
+[22:37:27]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:27]   Loaded.
+[22:37:27]  Loading plugin: pawncmd
+[22:37:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:37:27]   Loaded.
+[22:37:27]  Loading plugin: RouteConnectorPlugin
+[22:37:30]   Failed.
+[22:37:30]  Loaded 5 plugins.
+
+[22:37:30] 
+[22:37:30] Filterscripts
+[22:37:30] ---------------
+[22:37:30]   Loaded 0 filterscripts.
+
+[22:37:30] [debug] Run time error 19: "File or function is not found"
+[22:37:30] [debug]  NearestPlayerNode
+[22:37:30] [debug]  GetNodePos
+[22:37:30] [debug]  NearestNodeFromPoint
+[22:37:30] [debug] Run time error 19: "File or function is not found"
+[22:37:30] [debug]  NearestPlayerNode
+[22:37:30] [debug]  GetNodePos
+[22:37:30] [debug]  NearestNodeFromPoint
+[22:37:30] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[22:37:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:37:33] filterscripts = ""  (string)
+[22:37:33] 
+[22:37:33] Server Plugins
+[22:37:33] --------------
+[22:37:33]  Loading plugin: crashdetect
+[22:37:33]   CrashDetect plugin 4.19.4
+[22:37:33]   Loaded.
+[22:37:33]  Loading plugin: streamer
+[22:37:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:37:33]   Loaded.
+[22:37:33]  Loading plugin: sscanf
+[22:37:33] 
+
+[22:37:33]  ===============================
+
+[22:37:33]       sscanf plugin loaded.     
+
+[22:37:33]          Version:  2.8.3        
+
+[22:37:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:37:33]  ===============================
+
+[22:37:33]   Loaded.
+[22:37:33]  Loading plugin: mysql
+[22:37:33]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:33]   Loaded.
+[22:37:33]  Loading plugin: pawncmd
+[22:37:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:37:33]   Loaded.
+[22:37:33]  Loading plugin: RouteConnectorPlugin
+[22:37:37]   Failed.
+[22:37:37]  Loaded 5 plugins.
+
+[22:37:38] 
+[22:37:38] Filterscripts
+[22:37:38] ---------------
+[22:37:38]   Loaded 0 filterscripts.
+
+[22:37:38] [debug] Run time error 19: "File or function is not found"
+[22:37:38] [debug]  NearestPlayerNode
+[22:37:38] [debug]  GetNodePos
+[22:37:38] [debug]  NearestNodeFromPoint
+[22:37:38] [debug] Run time error 19: "File or function is not found"
+[22:37:38] [debug]  NearestPlayerNode
+[22:37:38] [debug]  GetNodePos
+[22:37:38] [debug]  NearestNodeFromPoint
+[22:37:38] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[22:37:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:37:43] filterscripts = ""  (string)
+[22:37:43] 
+[22:37:43] Server Plugins
+[22:37:43] --------------
+[22:37:43]  Loading plugin: crashdetect
+[22:37:43]   CrashDetect plugin 4.19.4
+[22:37:43]   Loaded.
+[22:37:43]  Loading plugin: streamer
+[22:37:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:37:43]   Loaded.
+[22:37:43]  Loading plugin: sscanf
+[22:37:43] 
+
+[22:37:43]  ===============================
+
+[22:37:43]       sscanf plugin loaded.     
+
+[22:37:43]          Version:  2.8.3        
+
+[22:37:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:37:43]  ===============================
+
+[22:37:43]   Loaded.
+[22:37:43]  Loading plugin: mysql
+[22:37:43]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:43]   Loaded.
+[22:37:43]  Loading plugin: pawncmd
+[22:37:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:37:43]   Loaded.
+[22:37:43]  Loading plugin: RouteConnectorPlugin
+[22:37:49]   Failed.
+[22:37:49]  Loaded 5 plugins.
+
+[22:37:49] 
+[22:37:49] Filterscripts
+[22:37:49] ---------------
+[22:37:49]   Loaded 0 filterscripts.
+
+[22:37:49] [debug] Run time error 19: "File or function is not found"
+[22:37:49] [debug]  NearestPlayerNode
+[22:37:49] [debug]  GetNodePos
+[22:37:49] [debug]  NearestNodeFromPoint
+[22:37:49] [debug] Run time error 19: "File or function is not found"
+[22:37:49] [debug]  NearestPlayerNode
+[22:37:49] [debug]  GetNodePos
+[22:37:49] [debug]  NearestNodeFromPoint
+[22:37:49] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[22:37:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:37:53] filterscripts = ""  (string)
+[22:37:53] 
+[22:37:53] Server Plugins
+[22:37:53] --------------
+[22:37:53]  Loading plugin: crashdetect
+[22:37:53]   CrashDetect plugin 4.19.4
+[22:37:53]   Loaded.
+[22:37:53]  Loading plugin: streamer
+[22:37:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:37:53]   Loaded.
+[22:37:53]  Loading plugin: sscanf
+[22:37:53] 
+
+[22:37:53]  ===============================
+
+[22:37:53]       sscanf plugin loaded.     
+
+[22:37:53]          Version:  2.8.3        
+
+[22:37:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:37:53]  ===============================
+
+[22:37:53]   Loaded.
+[22:37:53]  Loading plugin: mysql
+[22:37:53]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:53]   Loaded.
+[22:37:53]  Loading plugin: pawncmd
+[22:37:53] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:37:53]   Loaded.
+[22:37:53]  Loading plugin: RouteConnectorPlugin
+[22:37:53]   Failed.
+[22:37:53]  Loaded 5 plugins.
+
+[22:37:53] 
+[22:37:53] Filterscripts
+[22:37:53] ---------------
+[22:37:53]   Loaded 0 filterscripts.
+
+[22:37:53] [debug] Run time error 19: "File or function is not found"
+[22:37:53] [debug]  NearestPlayerNode
+[22:37:53] [debug]  GetNodePos
+[22:37:53] [debug]  NearestNodeFromPoint
+[22:37:53] [debug] Run time error 19: "File or function is not found"
+[22:37:53] [debug]  NearestPlayerNode
+[22:37:53] [debug]  GetNodePos
+[22:37:53] [debug]  NearestNodeFromPoint
+[22:37:53] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[22:37:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:37:56] filterscripts = ""  (string)
+[22:37:56] 
+[22:37:56] Server Plugins
+[22:37:56] --------------
+[22:37:56]  Loading plugin: crashdetect
+[22:37:56]   CrashDetect plugin 4.19.4
+[22:37:56]   Loaded.
+[22:37:56]  Loading plugin: streamer
+[22:37:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:37:56]   Loaded.
+[22:37:56]  Loading plugin: sscanf
+[22:37:56] 
+
+[22:37:56]  ===============================
+
+[22:37:56]       sscanf plugin loaded.     
+
+[22:37:56]          Version:  2.8.3        
+
+[22:37:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:37:56]  ===============================
+
+[22:37:56]   Loaded.
+[22:37:56]  Loading plugin: mysql
+[22:37:56]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:56]   Loaded.
+[22:37:56]  Loading plugin: pawncmd
+[22:37:56] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:37:56]   Loaded.
+[22:37:56]  Loading plugin: RouteConnectorPlugin
+[22:37:56]   Failed.
+[22:37:56]  Loaded 5 plugins.
+
+[22:37:56] 
+[22:37:56] Filterscripts
+[22:37:56] ---------------
+[22:37:56]   Loaded 0 filterscripts.
+
+[22:37:57] [debug] Run time error 19: "File or function is not found"
+[22:37:57] [debug]  NearestPlayerNode
+[22:37:57] [debug]  GetNodePos
+[22:37:57] [debug]  NearestNodeFromPoint
+[22:37:57] [debug] Run time error 19: "File or function is not found"
+[22:37:57] [debug]  NearestPlayerNode
+[22:37:57] [debug]  GetNodePos
+[22:37:57] [debug]  NearestNodeFromPoint
+[22:37:57] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[22:37:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:39:32] filterscripts = ""  (string)
+[22:39:32] 
+[22:39:32] Server Plugins
+[22:39:32] --------------
+[22:39:32]  Loading plugin: crashdetect
+[22:39:32]   CrashDetect plugin 4.19.4
+[22:39:32]   Loaded.
+[22:39:32]  Loading plugin: streamer
+[22:39:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:39:32]   Loaded.
+[22:39:32]  Loading plugin: sscanf
+[22:39:32] 
+
+[22:39:32]  ===============================
+
+[22:39:32]       sscanf plugin loaded.     
+
+[22:39:32]          Version:  2.8.3        
+
+[22:39:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:39:32]  ===============================
+
+[22:39:32]   Loaded.
+[22:39:32]  Loading plugin: mysql
+[22:39:32]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:32]   Loaded.
+[22:39:32]  Loading plugin: pawncmd
+[22:39:32] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:39:32]   Loaded.
+[22:39:32]  Loading plugin: RouteConnectorPlugin
+[22:39:32]   Loaded.
+[22:39:32]  Loaded 6 plugins.
+
+[22:39:32] 
+[22:39:32] Filterscripts
+[22:39:32] ---------------
+[22:39:32]   Loaded 0 filterscripts.
+
+[22:39:40] Подключение к базе данных не удалось [Неизвестная ошибка. Код ошибки: 2002]
+[22:39:40] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[22:39:40] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[22:39:40] [Продуктовый завод] Упаковано: 10000 кг: 
+[22:39:40] [Баржа] Оружия на борту: 20 шт: 
+[22:39:40] [КАСС] На складе: 20 шт: 
+[22:39:40] [Лесопилка] На складе:: 10000 кг: 
+[22:39:40] [Шахта] На складе: 10000 кг
+[22:39:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:00:18] filterscripts = ""  (string)
+[17:00:18] 
+[17:00:18] Server Plugins
+[17:00:18] --------------
+[17:00:18]  Loading plugin: crashdetect
+[17:00:18]   CrashDetect plugin 4.19.4
+[17:00:18]   Loaded.
+[17:00:18]  Loading plugin: streamer
+[17:00:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:00:18]   Loaded.
+[17:00:18]  Loading plugin: sscanf
+[17:00:18] 
+
+[17:00:18]  ===============================
+
+[17:00:18]       sscanf plugin loaded.     
+
+[17:00:18]          Version:  2.8.3        
+
+[17:00:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:00:18]  ===============================
+
+[17:00:18]   Loaded.
+[17:00:18]  Loading plugin: mysql
+[17:00:18]  >> plugin.mysql: R41-4 successfully loaded.
+[17:00:18]   Loaded.
+[17:00:18]  Loading plugin: pawncmd
+[17:00:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:00:18]   Loaded.
+[17:00:18]  Loading plugin: RouteConnectorPlugin
+[17:00:18]   Loaded.
+[17:00:18]  Loaded 6 plugins.
+
+[17:00:18] 
+[17:00:18] Filterscripts
+[17:00:18] ---------------
+[17:00:18]   Loaded 0 filterscripts.
+
+[17:00:18] Подключение к базе данных удалось
+[17:00:18] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[17:00:18] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[17:00:18] [Продуктовый завод] Упаковано: 10000 кг: 
+[17:00:18] [Баржа] Оружия на борту: 20 шт: 
+[17:00:18] [КАСС] На складе: 20 шт: 
+[17:00:18] [Лесопилка] На складе:: 10000 кг: 
+[17:00:18] [Шахта] На складе: 10000 кг
+[17:00:18] Number of vehicle models: 0
+[17:00:19] ===============================
+[17:00:19] ===============================
+[17:00:19] Результат загрузки ФРАКЦИЙ:
+[17:00:19] Найдено строк в БД:		[23]
+[17:00:19] ID началы массива:		[0]
+[17:00:19] Загружены строк: [24/24]	[ГОТОВО]
+[17:00:19] ===============================
+[17:00:19] Результат загрузки ТЕРРЕТОРИЙ:
+[17:00:19] Найдено строк в БД:		[124]
+[17:00:19] Загружены строк: [123/123]	[ГОТОВО]
+[17:00:20] ===============================
+[17:00:20] Результат загрузки ДОМОВ:
+[17:00:20] Найдено строк в БД:		[735]
+[17:00:20] ID началы массива:		[0]
+[17:00:20] Загружены строк: [736/736]	[ГОТОВО]
+[17:00:20] ===============================
+[17:00:20] Результат загрузки БИЗНЕСОВ:
+[17:00:20] Найдено строк в БД:		[138]
+[17:00:20] ID началы массива:		[0]
+[17:00:20] Загружены строк: [139/139]	[ГОТОВО]
+[17:00:20] ===============================
+[17:00:20] Результат загрузки АЗС:
+[17:00:20] Найдено строк в БД:		[15]
+[17:00:20] ID началы массива:		[0]
+[17:00:20] Загружены строк: [16/16]	[ГОТОВО]
+[17:01:21] [connection] 127.0.0.1:52306 requests connection cookie.
+[17:01:22] [connection] incoming connection: 127.0.0.1:52306 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:01:53] filterscripts = ""  (string)
+[17:01:53] 
+[17:01:53] Server Plugins
+[17:01:53] --------------
+[17:01:53]  Loading plugin: crashdetect
+[17:01:53]   CrashDetect plugin 4.19.4
+[17:01:53]   Loaded.
+[17:01:53]  Loading plugin: streamer
+[17:01:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:01:53]   Loaded.
+[17:01:53]  Loading plugin: sscanf
+[17:01:53] 
+
+[17:01:53]  ===============================
+
+[17:01:53]       sscanf plugin loaded.     
+
+[17:01:53]          Version:  2.8.3        
+
+[17:01:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:01:53]  ===============================
+
+[17:01:53]   Loaded.
+[17:01:53]  Loading plugin: mysql
+[17:01:53]  >> plugin.mysql: R41-4 successfully loaded.
+[17:01:53]   Loaded.
+[17:01:53]  Loading plugin: pawncmd
+[17:01:53] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:01:53]   Loaded.
+[17:01:53]  Loading plugin: RouteConnectorPlugin
+[17:01:53]   Loaded.
+[17:01:53]  Loaded 6 plugins.
+
+[17:01:53] 
+[17:01:53] Filterscripts
+[17:01:53] ---------------
+[17:01:53]   Loaded 0 filterscripts.
+
+[17:01:53] Подключение к базе данных удалось
+[17:01:53] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[17:01:53] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[17:01:53] [Продуктовый завод] Упаковано: 10000 кг: 
+[17:01:53] [Баржа] Оружия на борту: 20 шт: 
+[17:01:53] [КАСС] На складе: 20 шт: 
+[17:01:53] [Лесопилка] На складе:: 10000 кг: 
+[17:01:53] [Шахта] На складе: 10000 кг
+[17:01:53] Number of vehicle models: 0
+[17:01:54] ===============================
+[17:01:54] ===============================
+[17:01:54] Результат загрузки ФРАКЦИЙ:
+[17:01:54] Найдено строк в БД:		[23]
+[17:01:54] ID началы массива:		[0]
+[17:01:54] Загружены строк: [24/24]	[ГОТОВО]
+[17:01:54] ===============================
+[17:01:54] Результат загрузки ТЕРРЕТОРИЙ:
+[17:01:54] Найдено строк в БД:		[124]
+[17:01:54] Загружены строк: [123/123]	[ГОТОВО]
+[17:01:55] ===============================
+[17:01:55] Результат загрузки ДОМОВ:
+[17:01:55] Найдено строк в БД:		[735]
+[17:01:55] ID началы массива:		[0]
+[17:01:55] Загружены строк: [736/736]	[ГОТОВО]
+[17:01:55] ===============================
+[17:01:55] Результат загрузки БИЗНЕСОВ:
+[17:01:55] Найдено строк в БД:		[138]
+[17:01:55] ID началы массива:		[0]
+[17:01:55] Загружены строк: [139/139]	[ГОТОВО]
+[17:01:55] ===============================
+[17:01:55] Результат загрузки АЗС:
+[17:01:55] Найдено строк в БД:		[15]
+[17:01:55] ID началы массива:		[0]
+[17:01:55] Загружены строк: [16/16]	[ГОТОВО]
+[17:02:11] [connection] incoming connection: 127.0.0.1:54206 id: 0
+[17:02:11] [join] Master_Vu has joined the server (0:127.0.0.1)
+[17:02:13] [part] Master_Vu has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:04:25] filterscripts = ""  (string)
+[17:04:25] 
+[17:04:25] Server Plugins
+[17:04:25] --------------
+[17:04:25]  Loading plugin: crashdetect
+[17:04:25]   CrashDetect plugin 4.19.4
+[17:04:25]   Loaded.
+[17:04:25]  Loading plugin: streamer
+[17:04:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:04:25]   Loaded.
+[17:04:25]  Loading plugin: sscanf
+[17:04:25] 
+
+[17:04:25]  ===============================
+
+[17:04:25]       sscanf plugin loaded.     
+
+[17:04:25]          Version:  2.8.3        
+
+[17:04:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:04:25]  ===============================
+
+[17:04:25]   Loaded.
+[17:04:25]  Loading plugin: mysql
+[17:04:25]  >> plugin.mysql: R41-4 successfully loaded.
+[17:04:25]   Loaded.
+[17:04:25]  Loading plugin: pawncmd
+[17:04:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:04:25]   Loaded.
+[17:04:25]  Loading plugin: RouteConnectorPlugin
+[17:04:26]   Loaded.
+[17:04:26]  Loaded 6 plugins.
+
+[17:04:26] 
+[17:04:26] Filterscripts
+[17:04:26] ---------------
+[17:04:26]   Loaded 0 filterscripts.
+
+[17:04:26] Подключение к базе данных удалось
+[17:04:26] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[17:04:26] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[17:04:26] [Продуктовый завод] Упаковано: 10000 кг: 
+[17:04:26] [Баржа] Оружия на борту: 20 шт: 
+[17:04:26] [КАСС] На складе: 20 шт: 
+[17:04:26] [Лесопилка] На складе:: 10000 кг: 
+[17:04:26] [Шахта] На складе: 10000 кг
+[17:04:26] Number of vehicle models: 0
+[17:04:27] ===============================
+[17:04:27] ===============================
+[17:04:27] Результат загрузки ФРАКЦИЙ:
+[17:04:27] Найдено строк в БД:		[23]
+[17:04:27] ID началы массива:		[0]
+[17:04:27] Загружены строк: [24/24]	[ГОТОВО]
+[17:04:27] ===============================
+[17:04:27] Результат загрузки ТЕРРЕТОРИЙ:
+[17:04:27] Найдено строк в БД:		[124]
+[17:04:27] Загружены строк: [123/123]	[ГОТОВО]
+[17:04:28] ===============================
+[17:04:28] Результат загрузки ДОМОВ:
+[17:04:28] Найдено строк в БД:		[735]
+[17:04:28] ID началы массива:		[0]
+[17:04:28] Загружены строк: [736/736]	[ГОТОВО]
+[17:04:28] ===============================
+[17:04:28] Результат загрузки БИЗНЕСОВ:
+[17:04:28] Найдено строк в БД:		[138]
+[17:04:28] ID началы массива:		[0]
+[17:04:28] Загружены строк: [139/139]	[ГОТОВО]
+[17:04:28] ===============================
+[17:04:28] Результат загрузки АЗС:
+[17:04:28] Найдено строк в БД:		[15]
+[17:04:28] ID началы массива:		[0]
+[17:04:28] Загружены строк: [16/16]	[ГОТОВО]
+[17:04:43] [connection] incoming connection: 127.0.0.1:65323 id: 0
+[17:04:43] [join] Master_Vu has joined the server (0:127.0.0.1)
+[17:07:04] [part] Master_Vu has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:10:40] filterscripts = ""  (string)
+[17:10:40] 
+[17:10:40] Server Plugins
+[17:10:40] --------------
+[17:10:40]  Loading plugin: crashdetect
+[17:10:40]   CrashDetect plugin 4.19.4
+[17:10:40]   Loaded.
+[17:10:40]  Loading plugin: streamer
+[17:10:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:10:40]   Loaded.
+[17:10:40]  Loading plugin: sscanf
+[17:10:40] 
+
+[17:10:40]  ===============================
+
+[17:10:40]       sscanf plugin loaded.     
+
+[17:10:40]          Version:  2.8.3        
+
+[17:10:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:10:40]  ===============================
+
+[17:10:40]   Loaded.
+[17:10:40]  Loading plugin: mysql
+[17:10:40]  >> plugin.mysql: R41-4 successfully loaded.
+[17:10:40]   Loaded.
+[17:10:40]  Loading plugin: pawncmd
+[17:10:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:10:40]   Loaded.
+[17:10:40]  Loading plugin: RouteConnectorPlugin
+[17:10:40]   Loaded.
+[17:10:40]  Loaded 6 plugins.
+
+[17:10:40] 
+[17:10:40] Filterscripts
+[17:10:40] ---------------
+[17:10:40]   Loaded 0 filterscripts.
+
+[17:10:40] Подключение к базе данных удалось
+[17:10:40] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[17:10:40] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[17:10:40] [Продуктовый завод] Упаковано: 10000 кг: 
+[17:10:40] [Баржа] Оружия на борту: 20 шт: 
+[17:10:40] [КАСС] На складе: 20 шт: 
+[17:10:40] [Лесопилка] На складе:: 10000 кг: 
+[17:10:40] [Шахта] На складе: 10000 кг
+[17:10:40] Number of vehicle models: 0
+[17:10:41] ===============================
+[17:10:41] ===============================
+[17:10:41] Результат загрузки ФРАКЦИЙ:
+[17:10:41] Найдено строк в БД:		[23]
+[17:10:41] ID началы массива:		[0]
+[17:10:41] Загружены строк: [24/24]	[ГОТОВО]
+[17:10:41] ===============================
+[17:10:41] Результат загрузки ТЕРРЕТОРИЙ:
+[17:10:41] Найдено строк в БД:		[124]
+[17:10:41] Загружены строк: [123/123]	[ГОТОВО]
+[17:10:42] ===============================
+[17:10:42] Результат загрузки ДОМОВ:
+[17:10:42] Найдено строк в БД:		[735]
+[17:10:42] ID началы массива:		[0]
+[17:10:42] Загружены строк: [736/736]	[ГОТОВО]
+[17:10:42] ===============================
+[17:10:42] Результат загрузки БИЗНЕСОВ:
+[17:10:42] Найдено строк в БД:		[138]
+[17:10:42] ID началы массива:		[0]
+[17:10:42] Загружены строк: [139/139]	[ГОТОВО]
+[17:10:42] ===============================
+[17:10:42] Результат загрузки АЗС:
+[17:10:42] Найдено строк в БД:		[15]
+[17:10:42] ID началы массива:		[0]
+[17:10:42] Загружены строк: [16/16]	[ГОТОВО]
+[17:10:56] [connection] incoming connection: 127.0.0.1:51529 id: 0
+[17:10:56] [join] Master_Vu has joined the server (0:127.0.0.1)
+[17:11:55] [debug] Run time error 4: "Array index out of bounds"
+[17:11:55] [debug]  Attempted to read/write array element at negative index -202
+[17:11:55] [debug] AMX backtrace:
+[17:11:55] [debug] #0 00172d10 in Craftting (playerid=0, LEFT_1=0, LEFT_valve_1=0, RIGHT_2=0, RIGHT_valve_2=0) at C:\Users\Administrator\Downloads\RakNet\gamemodes\new.pwn:22731
+[17:11:55] [debug] #1 003b4c8c in public OnPlayerClickPlayerTextDraw (playerid=0, PlayerText:playertextid=80) at C:\Users\Administrator\Downloads\RakNet\gamemodes\new.pwn:54845
+[17:17:07] [part] Master_Vu has left the server (0:1)
+[17:17:35] [connection] incoming connection: 127.0.0.1:56449 id: 0
+[17:17:35] [join] Master_Vu has joined the server (0:127.0.0.1)
+[17:19:23] [part] Master_Vu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:22:18] filterscripts = ""  (string)
+[17:22:18] 
+[17:22:18] Server Plugins
+[17:22:18] --------------
+[17:22:18]  Loading plugin: crashdetect
+[17:22:18]   CrashDetect plugin 4.19.4
+[17:22:18]   Loaded.
+[17:22:18]  Loading plugin: streamer
+[17:22:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:22:18]   Loaded.
+[17:22:18]  Loading plugin: sscanf
+[17:22:18] 
+
+[17:22:18]  ===============================
+
+[17:22:18]       sscanf plugin loaded.     
+
+[17:22:18]          Version:  2.8.3        
+
+[17:22:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:22:18]  ===============================
+
+[17:22:18]   Loaded.
+[17:22:18]  Loading plugin: mysql
+[17:22:18]  >> plugin.mysql: R41-4 successfully loaded.
+[17:22:18]   Loaded.
+[17:22:18]  Loading plugin: pawncmd
+[17:22:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:22:18]   Loaded.
+[17:22:18]  Loading plugin: RouteConnectorPlugin
+[17:22:18]   Loaded.
+[17:22:18]  Loaded 6 plugins.
+
+[17:22:18] 
+[17:22:18] Filterscripts
+[17:22:18] ---------------
+[17:22:18]   Loaded 0 filterscripts.
+
+[17:22:18] Подключение к базе данных удалось
+[17:22:18] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[17:22:18] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[17:22:18] [Продуктовый завод] Упаковано: 10000 кг: 
+[17:22:18] [Баржа] Оружия на борту: 20 шт: 
+[17:22:18] [КАСС] На складе: 20 шт: 
+[17:22:18] [Лесопилка] На складе:: 10000 кг: 
+[17:22:18] [Шахта] На складе: 10000 кг
+[17:22:18] Number of vehicle models: 0
+[17:22:19] ===============================
+[17:22:19] ===============================
+[17:22:19] Результат загрузки ФРАКЦИЙ:
+[17:22:19] Найдено строк в БД:		[23]
+[17:22:19] ID началы массива:		[0]
+[17:22:19] Загружены строк: [24/24]	[ГОТОВО]
+[17:22:19] ===============================
+[17:22:19] Результат загрузки ТЕРРЕТОРИЙ:
+[17:22:19] Найдено строк в БД:		[124]
+[17:22:19] Загружены строк: [123/123]	[ГОТОВО]
+[17:22:20] ===============================
+[17:22:20] Результат загрузки ДОМОВ:
+[17:22:20] Найдено строк в БД:		[735]
+[17:22:20] ID началы массива:		[0]
+[17:22:20] Загружены строк: [736/736]	[ГОТОВО]
+[17:22:20] ===============================
+[17:22:20] Результат загрузки БИЗНЕСОВ:
+[17:22:20] Найдено строк в БД:		[138]
+[17:22:20] ID началы массива:		[0]
+[17:22:20] Загружены строк: [139/139]	[ГОТОВО]
+[17:22:20] ===============================
+[17:22:20] Результат загрузки АЗС:
+[17:22:20] Найдено строк в БД:		[15]
+[17:22:20] ID началы массива:		[0]
+[17:22:20] Загружены строк: [16/16]	[ГОТОВО]
+[17:22:35] [connection] incoming connection: 127.0.0.1:56126 id: 0
+[17:22:35] [join] Master_Vu has joined the server (0:127.0.0.1)
+[17:23:03] [part] Master_Vu has left the server (0:0)
+[17:23:23] [connection] incoming connection: 127.0.0.1:65348 id: 0
+[17:23:23] [join] Master_Vu has joined the server (0:127.0.0.1)
+[17:38:47] [part] Master_Vu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:58:36] filterscripts = ""  (string)
+[17:58:36] 
+[17:58:36] Server Plugins
+[17:58:36] --------------
+[17:58:36]  Loading plugin: crashdetect
+[17:58:36]   CrashDetect plugin 4.19.4
+[17:58:36]   Loaded.
+[17:58:36]  Loading plugin: streamer
+[17:58:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:58:36]   Loaded.
+[17:58:36]  Loading plugin: sscanf
+[17:58:36] 
+
+[17:58:36]  ===============================
+
+[17:58:36]       sscanf plugin loaded.     
+
+[17:58:36]          Version:  2.8.3        
+
+[17:58:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:58:36]  ===============================
+
+[17:58:36]   Loaded.
+[17:58:36]  Loading plugin: mysql
+[17:58:36]  >> plugin.mysql: R41-4 successfully loaded.
+[17:58:36]   Loaded.
+[17:58:36]  Loading plugin: pawncmd
+[17:58:36] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:58:36]   Loaded.
+[17:58:36]  Loading plugin: RouteConnectorPlugin
+[17:58:36]   Loaded.
+[17:58:36]  Loaded 6 plugins.
+
+[17:58:36] 
+[17:58:36] Filterscripts
+[17:58:36] ---------------
+[17:58:36]   Loaded 0 filterscripts.
+
+[17:58:36] Подключение к базе данных удалось
+[17:58:36] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[17:58:36] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[17:58:36] [Продуктовый завод] Упаковано: 10000 кг: 
+[17:58:36] [Баржа] Оружия на борту: 20 шт: 
+[17:58:36] [КАСС] На складе: 20 шт: 
+[17:58:36] [Лесопилка] На складе:: 10000 кг: 
+[17:58:36] [Шахта] На складе: 10000 кг
+[17:58:36] Number of vehicle models: 0
+[17:58:37] ===============================
+[17:58:37] ===============================
+[17:58:37] Результат загрузки ФРАКЦИЙ:
+[17:58:37] Найдено строк в БД:		[23]
+[17:58:37] ID началы массива:		[0]
+[17:58:37] Загружены строк: [24/24]	[ГОТОВО]
+[17:58:37] ===============================
+[17:58:37] Результат загрузки ТЕРРЕТОРИЙ:
+[17:58:37] Найдено строк в БД:		[124]
+[17:58:37] Загружены строк: [123/123]	[ГОТОВО]
+[17:58:38] ===============================
+[17:58:38] Результат загрузки ДОМОВ:
+[17:58:38] Найдено строк в БД:		[735]
+[17:58:38] ID началы массива:		[0]
+[17:58:38] Загружены строк: [736/736]	[ГОТОВО]
+[17:58:38] ===============================
+[17:58:38] Результат загрузки БИЗНЕСОВ:
+[17:58:38] Найдено строк в БД:		[138]
+[17:58:38] ID началы массива:		[0]
+[17:58:38] Загружены строк: [139/139]	[ГОТОВО]
+[17:58:38] ===============================
+[17:58:38] Результат загрузки АЗС:
+[17:58:38] Найдено строк в БД:		[15]
+[17:58:38] ID началы массива:		[0]
+[17:58:38] Загружены строк: [16/16]	[ГОТОВО]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:13:55] filterscripts = ""  (string)
+[19:13:55] 
+[19:13:55] Server Plugins
+[19:13:55] --------------
+[19:13:55]  Loading plugin: crashdetect
+[19:13:55]   CrashDetect plugin 4.19.4
+[19:13:55]   Loaded.
+[19:13:55]  Loading plugin: streamer
+[19:13:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:13:55]   Loaded.
+[19:13:55]  Loading plugin: sscanf
+[19:13:55] 
+
+[19:13:55]  ===============================
+
+[19:13:55]       sscanf plugin loaded.     
+
+[19:13:55]          Version:  2.8.3        
+
+[19:13:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:13:55]  ===============================
+
+[19:13:55]   Loaded.
+[19:13:55]  Loading plugin: mysql
+[19:13:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:13:55]   Loaded.
+[19:13:55]  Loading plugin: pawncmd
+[19:13:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:13:55]   Loaded.
+[19:13:55]  Loading plugin: RouteConnectorPlugin
+[19:13:55]   Loaded.
+[19:13:55]  Loaded 6 plugins.
+
+[19:13:55] 
+[19:13:55] Filterscripts
+[19:13:55] ---------------
+[19:13:55]   Loaded 0 filterscripts.
+
+[19:13:55] Подключение к базе данных удалось
+[19:13:55] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[19:13:55] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[19:13:55] [Продуктовый завод] Упаковано: 10000 кг: 
+[19:13:55] [Баржа] Оружия на борту: 20 шт: 
+[19:13:55] [КАСС] На складе: 20 шт: 
+[19:13:55] [Лесопилка] На складе:: 10000 кг: 
+[19:13:55] [Шахта] На складе: 10000 кг
+[19:13:55] Number of vehicle models: 0
+[19:13:57] ===============================
+[19:13:57] ===============================
+[19:13:57] Результат загрузки ФРАКЦИЙ:
+[19:13:57] Найдено строк в БД:		[23]
+[19:13:57] ID началы массива:		[0]
+[19:13:57] Загружены строк: [24/24]	[ГОТОВО]
+[19:13:57] ===============================
+[19:13:57] Результат загрузки ТЕРРЕТОРИЙ:
+[19:13:57] Найдено строк в БД:		[124]
+[19:13:57] Загружены строк: [123/123]	[ГОТОВО]
+[19:13:58] ===============================
+[19:13:58] Результат загрузки ДОМОВ:
+[19:13:58] Найдено строк в БД:		[735]
+[19:13:58] ID началы массива:		[0]
+[19:13:58] Загружены строк: [736/736]	[ГОТОВО]
+[19:13:58] ===============================
+[19:13:58] Результат загрузки БИЗНЕСОВ:
+[19:13:58] Найдено строк в БД:		[138]
+[19:13:58] ID началы массива:		[0]
+[19:13:58] Загружены строк: [139/139]	[ГОТОВО]
+[19:13:58] ===============================
+[19:13:58] Результат загрузки АЗС:
+[19:13:58] Найдено строк в БД:		[15]
+[19:13:58] ID началы массива:		[0]
+[19:13:58] Загружены строк: [16/16]	[ГОТОВО]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:14:11] filterscripts = ""  (string)
+[19:14:11] 
+[19:14:11] Server Plugins
+[19:14:11] --------------
+[19:14:11]  Loading plugin: crashdetect
+[19:14:11]   CrashDetect plugin 4.19.4
+[19:14:11]   Loaded.
+[19:14:11]  Loading plugin: streamer
+[19:14:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:14:11]   Loaded.
+[19:14:11]  Loading plugin: sscanf
+[19:14:11] 
+
+[19:14:11]  ===============================
+
+[19:14:11]       sscanf plugin loaded.     
+
+[19:14:11]          Version:  2.8.3        
+
+[19:14:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:14:11]  ===============================
+
+[19:14:11]   Loaded.
+[19:14:11]  Loading plugin: mysql
+[19:14:11]  >> plugin.mysql: R41-4 successfully loaded.
+[19:14:11]   Loaded.
+[19:14:11]  Loading plugin: pawncmd
+[19:14:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:14:11]   Loaded.
+[19:14:11]  Loading plugin: RouteConnectorPlugin
+[19:14:11]   Loaded.
+[19:14:11]  Loaded 6 plugins.
+
+[19:14:11] 
+[19:14:11] Filterscripts
+[19:14:11] ---------------
+[19:14:11]   Loaded 0 filterscripts.
+
+[19:14:12] Подключение к базе данных удалось
+[19:14:12] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[19:14:12] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[19:14:12] [Продуктовый завод] Упаковано: 10000 кг: 
+[19:14:12] [Баржа] Оружия на борту: 20 шт: 
+[19:14:12] [КАСС] На складе: 20 шт: 
+[19:14:12] [Лесопилка] На складе:: 10000 кг: 
+[19:14:12] [Шахта] На складе: 10000 кг
+[19:14:12] Number of vehicle models: 0
+[19:14:13] ===============================
+[19:14:13] ===============================
+[19:14:13] Результат загрузки ФРАКЦИЙ:
+[19:14:13] Найдено строк в БД:		[23]
+[19:14:13] ID началы массива:		[0]
+[19:14:13] Загружены строк: [24/24]	[ГОТОВО]
+[19:14:13] ===============================
+[19:14:13] Результат загрузки ТЕРРЕТОРИЙ:
+[19:14:13] Найдено строк в БД:		[124]
+[19:14:13] Загружены строк: [123/123]	[ГОТОВО]
+[19:14:14] ===============================
+[19:14:14] Результат загрузки ДОМОВ:
+[19:14:14] Найдено строк в БД:		[735]
+[19:14:14] ID началы массива:		[0]
+[19:14:14] Загружены строк: [736/736]	[ГОТОВО]
+[19:14:14] ===============================
+[19:14:14] Результат загрузки БИЗНЕСОВ:
+[19:14:14] Найдено строк в БД:		[138]
+[19:14:14] ID началы массива:		[0]
+[19:14:14] Загружены строк: [139/139]	[ГОТОВО]
+[19:14:14] ===============================
+[19:14:14] Результат загрузки АЗС:
+[19:14:14] Найдено строк в БД:		[15]
+[19:14:14] ID началы массива:		[0]
+[19:14:14] Загружены строк: [16/16]	[ГОТОВО]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:17:37] filterscripts = ""  (string)
+[19:17:37] 
+[19:17:37] Server Plugins
+[19:17:37] --------------
+[19:17:37]  Loading plugin: crashdetect
+[19:17:37]   CrashDetect plugin 4.19.4
+[19:17:37]   Loaded.
+[19:17:37]  Loading plugin: streamer
+[19:17:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:17:37]   Loaded.
+[19:17:37]  Loading plugin: sscanf
+[19:17:37] 
+
+[19:17:37]  ===============================
+
+[19:17:37]       sscanf plugin loaded.     
+
+[19:17:37]          Version:  2.8.3        
+
+[19:17:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:17:37]  ===============================
+
+[19:17:37]   Loaded.
+[19:17:37]  Loading plugin: mysql
+[19:17:37]  >> plugin.mysql: R41-4 successfully loaded.
+[19:17:37]   Loaded.
+[19:17:37]  Loading plugin: pawncmd
+[19:17:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:17:37]   Loaded.
+[19:17:37]  Loading plugin: RouteConnectorPlugin
+[19:17:37]   Loaded.
+[19:17:37]  Loaded 6 plugins.
+
+[19:17:37] 
+[19:17:37] Filterscripts
+[19:17:37] ---------------
+[19:17:37]   Loaded 0 filterscripts.
+
+[19:17:37] Подключение к базе данных удалось
+[19:17:37] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[19:17:37] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[19:17:37] [Продуктовый завод] Упаковано: 10000 кг: 
+[19:17:37] [Баржа] Оружия на борту: 20 шт: 
+[19:17:37] [КАСС] На складе: 20 шт: 
+[19:17:37] [Лесопилка] На складе:: 10000 кг: 
+[19:17:37] [Шахта] На складе: 10000 кг
+[19:17:38] Number of vehicle models: 0
+[19:17:38] ===============================
+[19:17:38] ===============================
+[19:17:38] Результат загрузки ФРАКЦИЙ:
+[19:17:38] Найдено строк в БД:		[23]
+[19:17:38] ID началы массива:		[0]
+[19:17:38] Загружены строк: [24/24]	[ГОТОВО]
+[19:17:38] ===============================
+[19:17:38] Результат загрузки ТЕРРЕТОРИЙ:
+[19:17:38] Найдено строк в БД:		[124]
+[19:17:38] Загружены строк: [123/123]	[ГОТОВО]
+[19:17:39] ===============================
+[19:17:39] Результат загрузки ДОМОВ:
+[19:17:39] Найдено строк в БД:		[735]
+[19:17:39] ID началы массива:		[0]
+[19:17:39] Загружены строк: [736/736]	[ГОТОВО]
+[19:17:39] ===============================
+[19:17:39] Результат загрузки БИЗНЕСОВ:
+[19:17:39] Найдено строк в БД:		[138]
+[19:17:39] ID началы массива:		[0]
+[19:17:39] Загружены строк: [139/139]	[ГОТОВО]
+[19:17:39] ===============================
+[19:17:39] Результат загрузки АЗС:
+[19:17:39] Найдено строк в БД:		[15]
+[19:17:39] ID началы массива:		[0]
+[19:17:39] Загружены строк: [16/16]	[ГОТОВО]
+[19:18:17] [connection] incoming connection: 127.0.0.1:58020 id: 0
+[19:18:17] [join] Master_Vu has joined the server (0:127.0.0.1)
+[19:50:30] [part] Master_Vu has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[20:49:08] filterscripts = ""  (string)
+[20:49:08] 
+[20:49:08] Server Plugins
+[20:49:08] --------------
+[20:49:08]  Loading plugin: crashdetect
+[20:49:08]   CrashDetect plugin 4.19.4
+[20:49:08]   Loaded.
+[20:49:08]  Loading plugin: streamer
+[20:49:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:49:08]   Loaded.
+[20:49:08]  Loading plugin: sscanf
+[20:49:08] 
+
+[20:49:08]  ===============================
+
+[20:49:08]       sscanf plugin loaded.     
+
+[20:49:08]          Version:  2.8.3        
+
+[20:49:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:49:08]  ===============================
+
+[20:49:08]   Loaded.
+[20:49:08]  Loading plugin: mysql
+[20:49:08]  >> plugin.mysql: R41-4 successfully loaded.
+[20:49:08]   Loaded.
+[20:49:08]  Loading plugin: pawncmd
+[20:49:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:49:08]   Loaded.
+[20:49:08]  Loading plugin: RouteConnectorPlugin
+[20:49:08]   Loaded.
+[20:49:08]  Loaded 6 plugins.
+
+[20:49:08] 
+[20:49:08] Filterscripts
+[20:49:08] ---------------
+[20:49:08]   Loaded 0 filterscripts.
+
+[20:49:08] Подключение к базе данных удалось
+[20:49:08] ===================[НАЧАЛАСЬ ЗАГРУЗКА С БАЗЫ ДАННЫХ]===================
+[20:49:08] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[20:49:08] [Продуктовый завод] Упаковано: 10000 кг: 
+[20:49:08] [Баржа] Оружия на борту: 20 шт: 
+[20:49:08] [КАСС] На складе: 20 шт: 
+[20:49:08] [Лесопилка] На складе:: 10000 кг: 
+[20:49:08] [Шахта] На складе: 10000 кг
+[20:49:08] Number of vehicle models: 0
+[20:49:09] ===============================
+[20:49:09] ===============================
+[20:49:09] Результат загрузки ФРАКЦИЙ:
+[20:49:09] Найдено строк в БД:		[23]
+[20:49:09] ID началы массива:		[0]
+[20:49:09] Загружены строк: [24/24]	[ГОТОВО]
+[20:49:09] ===============================
+[20:49:09] Результат загрузки ТЕРРЕТОРИЙ:
+[20:49:09] Найдено строк в БД:		[124]
+[20:49:09] Загружены строк: [123/123]	[ГОТОВО]
+[20:49:10] ===============================
+[20:49:10] Результат загрузки ДОМОВ:
+[20:49:10] Найдено строк в БД:		[735]
+[20:49:10] ID началы массива:		[0]
+[20:49:10] Загружены строк: [736/736]	[ГОТОВО]
+[20:49:10] ===============================
+[20:49:10] Результат загрузки БИЗНЕСОВ:
+[20:49:10] Найдено строк в БД:		[138]
+[20:49:10] ID началы массива:		[0]
+[20:49:10] Загружены строк: [139/139]	[ГОТОВО]
+[20:49:10] ===============================
+[20:49:10] Результат загрузки АЗС:
+[20:49:10] Найдено строк в БД:		[15]
+[20:49:10] ID началы массива:		[0]
+[20:49:10] Загружены строк: [16/16]	[ГОТОВО]
+[20:49:35] [connection] incoming connection: 127.0.0.1:54244 id: 0
+[20:49:35] [join] Master_Vu has joined the server (0:127.0.0.1)
+[21:09:04] [debug] Run time error 4: "Array index out of bounds"
+[21:09:04] [debug]  Attempted to read/write array element at negative index -1
+[21:09:04] [debug] AMX backtrace:
+[21:09:04] [debug] #0 002bfad4 in public OnDialogResponse (playerid=0, dialogid=10, response=1, listitem=-1, inputtext[]=@00e088c0 "") at C:\Users\Administrator\Downloads\RakNet\gamemodes\new.pwn:41310
+[21:11:11] [part] Master_Vu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:50:57] filterscripts = ""  (string)
+[12:50:57] 
+[12:50:57] Server Plugins
+[12:50:57] --------------
+[12:50:57]  Loading plugin: crashdetect
+[12:50:58]   CrashDetect plugin 4.19.4
+[12:50:58]   Loaded.
+[12:50:58]  Loading plugin: streamer
+[12:50:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:50:58]   Loaded.
+[12:50:58]  Loading plugin: sscanf
+[12:50:58] 
+
+[12:50:58]  ===============================
+
+[12:50:58]       sscanf plugin loaded.     
+
+[12:50:58]          Version:  2.8.3        
+
+[12:50:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:50:58]  ===============================
+
+[12:50:58]   Loaded.
+[12:50:58]  Loading plugin: mysql
+[12:50:59]  >> plugin.mysql: R41-4 successfully loaded.
+[12:50:59]   Loaded.
+[12:50:59]  Loading plugin: pawncmd
+[12:50:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:50:59]   Loaded.
+[12:50:59]  Loading plugin: RouteConnectorPlugin
+[12:50:59]   Loaded.
+[12:50:59]  Loaded 6 plugins.
+
+[12:51:00] 
+[12:51:00] Filterscripts
+[12:51:00] ---------------
+[12:51:00]   Loaded 0 filterscripts.
+
+[12:51:00] Ket noi co so du lieu thanh cong
+[12:51:00] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[12:51:00] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[12:51:00] [Продуктовый завод] Упаковано: 10000 кг: 
+[12:51:00] [Баржа] Vu khi tren tau: 20 шт: 
+[12:51:00] [КАСС] На складе: 20 шт: 
+[12:51:00] [Лесопилка] На складе:: 10000 кг: 
+[12:51:00] [Шахта] На складе: 10000 кг
+[12:51:00] Number of vehicle models: 0
+[12:51:00] ===============================
+[12:51:01] ===============================
+[12:51:01] Результат загрузки ФРАКЦИЙ:
+[12:51:01] Найдено строк в БД:		[23]
+[12:51:01] ID началы массива:		[0]
+[12:51:01] Загружены строк: [24/24]	[ГОТОВО]
+[12:51:01] ===============================
+[12:51:01] Результат загрузки ТЕРРЕТОРИЙ:
+[12:51:01] Найдено строк в БД:		[124]
+[12:51:01] Загружены строк: [123/123]	[ГОТОВО]
+[12:51:01] ===============================
+[12:51:01] Результат загрузки ДОМОВ:
+[12:51:01] Найдено строк в БД:		[735]
+[12:51:01] ID началы массива:		[0]
+[12:51:01] Загружены строк: [736/736]	[ГОТОВО]
+[12:51:01] ===============================
+[12:51:01] Результат загрузки БИЗНЕСОВ:
+[12:51:01] Найдено строк в БД:		[138]
+[12:51:01] ID началы массива:		[0]
+[12:51:01] Загружены строк: [139/139]	[ГОТОВО]
+[12:51:01] ===============================
+[12:51:01] Результат загрузки АЗС:
+[12:51:01] Найдено строк в БД:		[15]
+[12:51:01] ID началы массива:		[0]
+[12:51:01] Загружены строк: [16/16]	[ГОТОВО]
+[12:52:54] [connection] incoming connection: 127.0.0.1:54325 id: 0
+[12:52:54] [join] Master_Vu has joined the server (0:127.0.0.1)
+[12:57:28] [part] Master_Vu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[20:39:23] filterscripts = ""  (string)
+[20:39:23] 
+[20:39:23] Server Plugins
+[20:39:23] --------------
+[20:39:23]  Loading plugin: crashdetect
+[20:39:23]   CrashDetect plugin 4.19.4
+[20:39:23]   Loaded.
+[20:39:23]  Loading plugin: streamer
+[20:39:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:39:23]   Loaded.
+[20:39:23]  Loading plugin: sscanf
+[20:39:23] 
+
+[20:39:23]  ===============================
+
+[20:39:23]       sscanf plugin loaded.     
+
+[20:39:23]          Version:  2.8.3        
+
+[20:39:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:39:23]  ===============================
+
+[20:39:23]   Loaded.
+[20:39:23]  Loading plugin: mysql
+[20:39:23]  >> plugin.mysql: R41-4 successfully loaded.
+[20:39:23]   Loaded.
+[20:39:23]  Loading plugin: pawncmd
+[20:39:23] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:39:23]   Loaded.
+[20:39:23]  Loading plugin: RouteConnectorPlugin
+[20:39:23]   Loaded.
+[20:39:23]  Loaded 6 plugins.
+
+[20:39:23] 
+[20:39:23] Filterscripts
+[20:39:23] ---------------
+[20:39:23]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[20:40:59] filterscripts = ""  (string)
+[20:40:59] 
+[20:40:59] Server Plugins
+[20:40:59] --------------
+[20:40:59]  Loading plugin: crashdetect
+[20:40:59]   CrashDetect plugin 4.19.4
+[20:40:59]   Loaded.
+[20:40:59]  Loading plugin: streamer
+[20:40:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:40:59]   Loaded.
+[20:40:59]  Loading plugin: sscanf
+[20:40:59] 
+
+[20:40:59]  ===============================
+
+[20:40:59]       sscanf plugin loaded.     
+
+[20:40:59]          Version:  2.8.3        
+
+[20:40:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:40:59]  ===============================
+
+[20:40:59]   Loaded.
+[20:40:59]  Loading plugin: mysql
+[20:40:59]  >> plugin.mysql: R41-4 successfully loaded.
+[20:40:59]   Loaded.
+[20:40:59]  Loading plugin: pawncmd
+[20:40:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:40:59]   Loaded.
+[20:40:59]  Loading plugin: RouteConnectorPlugin
+[20:41:00]   Loaded.
+[20:41:00]  Loaded 6 plugins.
+
+[20:41:00] 
+[20:41:00] Filterscripts
+[20:41:00] ---------------
+[20:41:00]   Loaded 0 filterscripts.
+
+[20:41:00] Ket noi co so du lieu thanh cong
+[20:41:00] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[20:41:00] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[20:41:00] [Продуктовый завод] Упаковано: 10000 кг: 
+[20:41:00] [Баржа] Vu khi tren tau: 20 шт: 
+[20:41:00] [КАСС] На складе: 20 шт: 
+[20:41:00] [Лесопилка] На складе:: 10000 кг: 
+[20:41:00] [Шахта] На складе: 10000 кг
+[20:41:00] Number of vehicle models: 0
+[20:41:00] ===============================
+[20:41:00] ===============================
+[20:41:00] Результат загрузки ФРАКЦИЙ:
+[20:41:00] Найдено строк в БД:		[23]
+[20:41:00] ID началы массива:		[0]
+[20:41:00] Загружены строк: [24/24]	[ГОТОВО]
+[20:41:00] ===============================
+[20:41:00] Результат загрузки ТЕРРЕТОРИЙ:
+[20:41:00] Найдено строк в БД:		[124]
+[20:41:00] Загружены строк: [123/123]	[ГОТОВО]
+[20:41:01] ===============================
+[20:41:01] Результат загрузки ДОМОВ:
+[20:41:01] Найдено строк в БД:		[735]
+[20:41:01] ID началы массива:		[0]
+[20:41:01] Загружены строк: [736/736]	[ГОТОВО]
+[20:41:01] ===============================
+[20:41:01] Результат загрузки БИЗНЕСОВ:
+[20:41:01] Найдено строк в БД:		[138]
+[20:41:01] ID началы массива:		[0]
+[20:41:01] Загружены строк: [139/139]	[ГОТОВО]
+[20:41:01] ===============================
+[20:41:01] Результат загрузки АЗС:
+[20:41:01] Найдено строк в БД:		[15]
+[20:41:01] ID началы массива:		[0]
+[20:41:01] Загружены строк: [16/16]	[ГОТОВО]
+[20:42:11] [connection] incoming connection: 127.0.0.1:56010 id: 0
+[20:42:11] [join] Master_Vu has joined the server (0:127.0.0.1)
+[20:42:48] [debug] Run time error 4: "Array index out of bounds"
+[20:42:48] [debug]  Attempted to read/write array element at negative index -202
+[20:42:48] [debug] AMX backtrace:
+[20:42:48] [debug] #0 00172ce8 in Craftting (playerid=0, LEFT_1=0, LEFT_valve_1=0, RIGHT_2=0, RIGHT_valve_2=0) at C:\Users\HOANG VU\Desktop\jobs\RakNet\gamemodes\new.pwn:22728
+[20:42:48] [debug] #1 003b4c64 in public OnPlayerClickPlayerTextDraw (playerid=0, PlayerText:playertextid=80) at C:\Users\HOANG VU\Desktop\jobs\RakNet\gamemodes\new.pwn:54843
+[20:43:26] [part] Master_Vu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[20:47:36] filterscripts = ""  (string)
+[20:47:36] 
+[20:47:36] Server Plugins
+[20:47:36] --------------
+[20:47:36]  Loading plugin: crashdetect
+[20:47:36]   CrashDetect plugin 4.19.4
+[20:47:36]   Loaded.
+[20:47:36]  Loading plugin: streamer
+[20:47:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:47:36]   Loaded.
+[20:47:36]  Loading plugin: sscanf
+[20:47:36] 
+
+[20:47:36]  ===============================
+
+[20:47:36]       sscanf plugin loaded.     
+
+[20:47:36]          Version:  2.8.3        
+
+[20:47:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:47:36]  ===============================
+
+[20:47:36]   Loaded.
+[20:47:36]  Loading plugin: mysql
+[20:47:36]  >> plugin.mysql: R41-4 successfully loaded.
+[20:47:36]   Loaded.
+[20:47:36]  Loading plugin: pawncmd
+[20:47:36] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:47:36]   Loaded.
+[20:47:36]  Loading plugin: RouteConnectorPlugin
+[20:47:36]   Loaded.
+[20:47:36]  Loaded 6 plugins.
+
+[20:47:36] 
+[20:47:36] Filterscripts
+[20:47:36] ---------------
+[20:47:36]   Loaded 0 filterscripts.
+
+[20:47:36] Ket noi co so du lieu thanh cong
+[20:47:36] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[20:47:36] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[20:47:36] [Продуктовый завод] Упаковано: 10000 кг: 
+[20:47:36] [Баржа] Vu khi tren tau: 20 шт: 
+[20:47:36] [КАСС] На складе: 20 шт: 
+[20:47:36] [Лесопилка] На складе:: 10000 кг: 
+[20:47:36] [Шахта] На складе: 10000 кг
+[20:47:36] Number of vehicle models: 0
+[20:47:37] ===============================
+[20:47:37] ===============================
+[20:47:37] Результат загрузки ФРАКЦИЙ:
+[20:47:37] Найдено строк в БД:		[23]
+[20:47:37] ID началы массива:		[0]
+[20:47:37] Загружены строк: [24/24]	[ГОТОВО]
+[20:47:37] ===============================
+[20:47:37] Результат загрузки ТЕРРЕТОРИЙ:
+[20:47:37] Найдено строк в БД:		[124]
+[20:47:37] Загружены строк: [123/123]	[ГОТОВО]
+[20:47:38] ===============================
+[20:47:38] Результат загрузки ДОМОВ:
+[20:47:38] Найдено строк в БД:		[735]
+[20:47:38] ID началы массива:		[0]
+[20:47:38] Загружены строк: [736/736]	[ГОТОВО]
+[20:47:38] ===============================
+[20:47:38] Результат загрузки БИЗНЕСОВ:
+[20:47:38] Найдено строк в БД:		[138]
+[20:47:38] ID началы массива:		[0]
+[20:47:38] Загружены строк: [139/139]	[ГОТОВО]
+[20:47:38] ===============================
+[20:47:38] Результат загрузки АЗС:
+[20:47:38] Найдено строк в БД:		[15]
+[20:47:38] ID началы массива:		[0]
+[20:47:38] Загружены строк: [16/16]	[ГОТОВО]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[21:21:37] filterscripts = ""  (string)
+[21:21:37] 
+[21:21:37] Server Plugins
+[21:21:37] --------------
+[21:21:37]  Loading plugin: crashdetect
+[21:21:37]   CrashDetect plugin 4.19.4
+[21:21:37]   Loaded.
+[21:21:37]  Loading plugin: streamer
+[21:21:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:21:37]   Loaded.
+[21:21:37]  Loading plugin: sscanf
+[21:21:37] 
+
+[21:21:37]  ===============================
+
+[21:21:37]       sscanf plugin loaded.     
+
+[21:21:37]          Version:  2.8.3        
+
+[21:21:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:21:37]  ===============================
+
+[21:21:37]   Loaded.
+[21:21:37]  Loading plugin: mysql
+[21:21:37]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:37]   Loaded.
+[21:21:37]  Loading plugin: pawncmd
+[21:21:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:21:37]   Loaded.
+[21:21:37]  Loading plugin: RouteConnectorPlugin
+[21:21:37]   Loaded.
+[21:21:37]  Loaded 6 plugins.
+
+[21:21:37] 
+[21:21:37] Filterscripts
+[21:21:37] ---------------
+[21:21:37]   Loaded 0 filterscripts.
+
+[21:21:37] Ket noi co so du lieu thanh cong
+[21:21:37] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[21:21:37] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[21:21:37] [Продуктовый завод] Упаковано: 10000 кг: 
+[21:21:37] [Баржа] Vu khi tren tau: 20 шт: 
+[21:21:37] [КАСС] На складе: 20 шт: 
+[21:21:37] [Лесопилка] На складе:: 10000 кг: 
+[21:21:37] [Шахта] На складе: 10000 кг
+[21:21:37] Number of vehicle models: 0
+[21:21:37] ===============================
+[21:21:37] ===============================
+[21:21:37] Ket qua cua viec tai TO CHUC:
+[21:21:37] Da tim thay cac co so du lieu:		[23]
+[21:21:37] Bat dau ID:		[0]
+[21:21:37] Hang da tai:: [24/24]	[DONE]
+[21:21:37] ===============================
+[21:21:37] Ket qua tai KHUNG BO:
+[21:21:37] Da tim thay cac co so du lieu:		[124]
+[21:21:37] Hang da tai:: [123/123]	[DONE]
+[21:21:38] ===============================
+[21:21:38] Результат загрузки ДОМОВ:
+[21:21:38] Da tim thay cac co so du lieu:		[735]
+[21:21:38] Bat dau ID:		[0]
+[21:21:38] Hang da tai:: [736/736]	[ГОТОВО]
+[21:21:38] ===============================
+[21:21:38] Результат загрузки БИЗНЕСОВ:
+[21:21:38] Da tim thay cac co so du lieu:		[138]
+[21:21:38] Bat dau ID:		[0]
+[21:21:38] Hang da tai:: [139/139]	[ГОТОВО]
+[21:21:38] ===============================
+[21:21:38] Результат загрузки АЗС:
+[21:21:38] Da tim thay cac co so du lieu:		[15]
+[21:21:38] Bat dau ID:		[0]
+[21:21:38] Hang da tai:: [16/16]	[ГОТОВО]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[21:23:42] filterscripts = ""  (string)
+[21:23:42] 
+[21:23:42] Server Plugins
+[21:23:42] --------------
+[21:23:42]  Loading plugin: crashdetect
+[21:23:42]   CrashDetect plugin 4.19.4
+[21:23:42]   Loaded.
+[21:23:42]  Loading plugin: streamer
+[21:23:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:23:42]   Loaded.
+[21:23:42]  Loading plugin: sscanf
+[21:23:42] 
+
+[21:23:42]  ===============================
+
+[21:23:42]       sscanf plugin loaded.     
+
+[21:23:42]          Version:  2.8.3        
+
+[21:23:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:23:42]  ===============================
+
+[21:23:42]   Loaded.
+[21:23:42]  Loading plugin: mysql
+[21:23:42]  >> plugin.mysql: R41-4 successfully loaded.
+[21:23:42]   Loaded.
+[21:23:42]  Loading plugin: pawncmd
+[21:23:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:23:42]   Loaded.
+[21:23:42]  Loading plugin: RouteConnectorPlugin
+[21:23:42]   Loaded.
+[21:23:42]  Loaded 6 plugins.
+
+[21:23:42] 
+[21:23:42] Filterscripts
+[21:23:42] ---------------
+[21:23:42]   Loaded 0 filterscripts.
+
+[21:23:42] Ket noi co so du lieu thanh cong
+[21:23:42] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[21:23:42] Результат загрузки РАБОЧИХ СКЛАДОВ:
+[21:23:42] [Продуктовый завод] Упаковано: 10000 кг: 
+[21:23:42] [Баржа] Vu khi tren tau: 20 шт: 
+[21:23:42] [КАСС] На складе: 20 шт: 
+[21:23:42] [Лесопилка] На складе:: 10000 кг: 
+[21:23:42] [Шахта] На складе: 10000 кг
+[21:23:42] Number of vehicle models: 0
+[21:23:43] ===============================
+[21:23:43] ===============================
+[21:23:43] Ket qua cua viec tai TO CHUC:
+[21:23:43] Da tim thay cac co so du lieu:		[23]
+[21:23:43] Bat dau ID:		[0]
+[21:23:43] Hang da tai:: [24/24]	[DONE]
+[21:23:43] ===============================
+[21:23:43] Ket qua tai KHUNG BO:
+[21:23:43] Da tim thay cac co so du lieu:		[124]
+[21:23:43] Hang da tai:: [123/123]	[DONE]
+[21:23:43] ===============================
+[21:23:43] Ket qua tai NHA:
+[21:23:43] Da tim thay cac co so du lieu:		[735]
+[21:23:43] Bat dau ID:		[0]
+[21:23:43] Hang da tai:: [736/736]	[DONE]
+[21:23:43] ===============================
+[21:23:43] Результат загрузки БИЗНЕСОВ:
+[21:23:43] Da tim thay cac co so du lieu:		[138]
+[21:23:43] Bat dau ID:		[0]
+[21:23:43] Hang da tai:: [139/139]	[DONE]
+[21:23:43] ===============================
+[21:23:43] Dang tai tram xang:
+[21:23:43] Da tim thay cac co so du lieu:		[15]
+[21:23:43] Bat dau ID:		[0]
+[21:23:43] Hang da tai:: [16/16]	[DONE]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:04:24] filterscripts = ""  (string)
+[00:04:24] 
+[00:04:24] Server Plugins
+[00:04:24] --------------
+[00:04:24]  Loading plugin: crashdetect
+[00:04:24]   CrashDetect plugin 4.19.4
+[00:04:24]   Loaded.
+[00:04:24]  Loading plugin: streamer
+[00:04:24] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:04:24]   Loaded.
+[00:04:24]  Loading plugin: sscanf
+[00:04:24] 
+
+[00:04:24]  ===============================
+
+[00:04:24]       sscanf plugin loaded.     
+
+[00:04:24]          Version:  2.8.3        
+
+[00:04:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:04:24]  ===============================
+
+[00:04:24]   Loaded.
+[00:04:24]  Loading plugin: mysql
+[00:04:24]  >> plugin.mysql: R41-4 successfully loaded.
+[00:04:24]   Loaded.
+[00:04:24]  Loading plugin: pawncmd
+[00:04:24] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:04:24]   Loaded.
+[00:04:24]  Loading plugin: RouteConnectorPlugin
+[00:04:24]   Loaded.
+[00:04:24]  Loaded 6 plugins.
+
+[00:04:24] 
+[00:04:24] Filterscripts
+[00:04:24] ---------------
+[00:04:24]   Loaded 0 filterscripts.
+
+[00:04:24] Script[gamemodes/new.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[00:04:24] Failed to load 'gamemodes/new.amx' script.
+[00:04:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:04:30] filterscripts = ""  (string)
+[00:04:30] 
+[00:04:30] Server Plugins
+[00:04:30] --------------
+[00:04:30]  Loading plugin: crashdetect
+[00:04:30]   CrashDetect plugin 4.19.4
+[00:04:30]   Loaded.
+[00:04:30]  Loading plugin: streamer
+[00:04:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:04:30]   Loaded.
+[00:04:30]  Loading plugin: sscanf
+[00:04:30] 
+
+[00:04:30]  ===============================
+
+[00:04:30]       sscanf plugin loaded.     
+
+[00:04:30]          Version:  2.8.3        
+
+[00:04:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:04:30]  ===============================
+
+[00:04:30]   Loaded.
+[00:04:30]  Loading plugin: mysql
+[00:04:30]  >> plugin.mysql: R41-4 successfully loaded.
+[00:04:30]   Loaded.
+[00:04:30]  Loading plugin: pawncmd
+[00:04:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:04:30]   Loaded.
+[00:04:30]  Loading plugin: RouteConnectorPlugin
+[00:04:30]   Loaded.
+[00:04:30]  Loaded 6 plugins.
+
+[00:04:30] 
+[00:04:30] Filterscripts
+[00:04:30] ---------------
+[00:04:30]   Loaded 0 filterscripts.
+
+[00:04:31] Ket noi co so du lieu thanh cong
+[00:04:31] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[00:04:31] Ket qua tai CUA HANG LAM VIEC:
+[00:04:31] [Nha may thuc pham] Dong goi: 10000 KG: 
+[00:04:31] [Xa lan] Vu khi tren tau: 20 So luong: 
+[00:04:31] [LOAI] Trong kho: 20 So luong: 
+[00:04:31] [May cua] Trong kho:: 10000 KG: 
+[00:04:31] [Mine] Trong kho: 10000 KG
+[00:04:31] Number of vehicle models: 0
+[00:04:31] ===============================
+[00:04:31] ===============================
+[00:04:31] Ket qua cua viec tai TO CHUC:
+[00:04:31] Da tim thay cac co so du lieu:		[23]
+[00:04:31] Bat dau ID:		[0]
+[00:04:31] Hang da tai:: [24/24]	[DONE]
+[00:04:31] ===============================
+[00:04:31] Ket qua tai KHUNG BO:
+[00:04:31] Da tim thay cac co so du lieu:		[124]
+[00:04:31] Hang da tai:: [123/123]	[DONE]
+[00:04:32] ===============================
+[00:04:32] Ket qua tai NHA:
+[00:04:32] Da tim thay cac co so du lieu:		[735]
+[00:04:32] Bat dau ID:		[0]
+[00:04:32] Hang da tai:: [736/736]	[DONE]
+[00:04:32] ===============================
+[00:04:32] Ket qua tai doanh nghiep:
+[00:04:32] Da tim thay cac co so du lieu:		[138]
+[00:04:32] Bat dau ID:		[0]
+[00:04:32] Hang da tai:: [139/139]	[DONE]
+[00:04:32] ===============================
+[00:04:32] Dang tai tram xang:
+[00:04:32] Da tim thay cac co so du lieu:		[15]
+[00:04:32] Bat dau ID:		[0]
+[00:04:32] Hang da tai:: [16/16]	[DONE]
+[00:05:17] [connection] incoming connection: 127.0.0.1:60737 id: 0
+[00:05:17] [join] Master_Vu has joined the server (0:127.0.0.1)
+[00:08:15] [part] Master_Vu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:10:19] filterscripts = ""  (string)
+[00:10:19] 
+[00:10:19] Server Plugins
+[00:10:19] --------------
+[00:10:19]  Loading plugin: crashdetect
+[00:10:19]   CrashDetect plugin 4.19.4
+[00:10:19]   Loaded.
+[00:10:19]  Loading plugin: streamer
+[00:10:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:10:19]   Loaded.
+[00:10:19]  Loading plugin: sscanf
+[00:10:19] 
+
+[00:10:19]  ===============================
+
+[00:10:19]       sscanf plugin loaded.     
+
+[00:10:19]          Version:  2.8.3        
+
+[00:10:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:10:19]  ===============================
+
+[00:10:19]   Loaded.
+[00:10:19]  Loading plugin: mysql
+[00:10:19]  >> plugin.mysql: R41-4 successfully loaded.
+[00:10:19]   Loaded.
+[00:10:19]  Loading plugin: pawncmd
+[00:10:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:10:19]   Loaded.
+[00:10:19]  Loading plugin: RouteConnectorPlugin
+[00:10:19]   Loaded.
+[00:10:19]  Loaded 6 plugins.
+
+[00:10:19] 
+[00:10:19] Filterscripts
+[00:10:19] ---------------
+[00:10:19]   Loaded 0 filterscripts.
+
+[00:10:19] Ket noi co so du lieu thanh cong
+[00:10:19] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[00:10:19] Ket qua tai CUA HANG LAM VIEC:
+[00:10:19] [Nha may thuc pham] Dong goi: 10000 KG: 
+[00:10:19] [Xa lan] Vu khi tren tau: 20 So luong: 
+[00:10:19] [LOAI] Trong kho: 20 So luong: 
+[00:10:19] [May cua] Trong kho:: 10000 KG: 
+[00:10:19] [Mine] Trong kho: 10000 KG
+[00:10:19] Number of vehicle models: 0
+[00:10:20] ===============================
+[00:10:20] ===============================
+[00:10:20] Ket qua cua viec tai TO CHUC:
+[00:10:20] Da tim thay cac co so du lieu:		[23]
+[00:10:20] Bat dau ID:		[0]
+[00:10:20] Hang da tai:: [24/24]	[DONE]
+[00:10:20] ===============================
+[00:10:20] Ket qua tai KHUNG BO:
+[00:10:20] Da tim thay cac co so du lieu:		[124]
+[00:10:20] Hang da tai:: [123/123]	[DONE]
+[00:10:21] ===============================
+[00:10:21] Ket qua tai NHA:
+[00:10:21] Da tim thay cac co so du lieu:		[735]
+[00:10:21] Bat dau ID:		[0]
+[00:10:21] Hang da tai:: [736/736]	[DONE]
+[00:10:21] ===============================
+[00:10:21] Ket qua tai doanh nghiep:
+[00:10:21] Da tim thay cac co so du lieu:		[138]
+[00:10:21] Bat dau ID:		[0]
+[00:10:21] Hang da tai:: [139/139]	[DONE]
+[00:10:21] ===============================
+[00:10:21] Dang tai tram xang:
+[00:10:21] Da tim thay cac co so du lieu:		[15]
+[00:10:21] Bat dau ID:		[0]
+[00:10:21] Hang da tai:: [16/16]	[DONE]
+[00:10:39] [connection] incoming connection: 127.0.0.1:51241 id: 0
+[00:10:39] [join] Master_Vu has joined the server (0:127.0.0.1)
+[00:10:55] [part] Master_Vu has left the server (0:2)
+[00:12:30] [connection] incoming connection: 127.0.0.1:62245 id: 0
+[00:12:30] [join] Master_Vu has joined the server (0:127.0.0.1)
+[00:14:09] [part] Master_Vu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:54:28] filterscripts = ""  (string)
+[00:54:28] 
+[00:54:28] Server Plugins
+[00:54:28] --------------
+[00:54:28]  Loading plugin: crashdetect
+[00:54:28]   CrashDetect plugin 4.19.4
+[00:54:28]   Loaded.
+[00:54:28]  Loading plugin: streamer
+[00:54:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:54:28]   Loaded.
+[00:54:28]  Loading plugin: sscanf
+[00:54:28] 
+
+[00:54:28]  ===============================
+
+[00:54:28]       sscanf plugin loaded.     
+
+[00:54:28]          Version:  2.8.3        
+
+[00:54:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:54:28]  ===============================
+
+[00:54:28]   Loaded.
+[00:54:28]  Loading plugin: mysql
+[00:54:28]  >> plugin.mysql: R41-4 successfully loaded.
+[00:54:28]   Loaded.
+[00:54:28]  Loading plugin: pawncmd
+[00:54:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:54:28]   Loaded.
+[00:54:28]  Loading plugin: RouteConnectorPlugin
+[00:54:28]   Loaded.
+[00:54:28]  Loaded 6 plugins.
+
+[00:54:28] 
+[00:54:28] Filterscripts
+[00:54:28] ---------------
+[00:54:28]   Loaded 0 filterscripts.
+
+[00:54:28] Ket noi co so du lieu thanh cong
+[00:54:29] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[00:54:29] Ket qua tai CUA HANG LAM VIEC:
+[00:54:29] [Nha may thuc pham] Dong goi: 10000 KG: 
+[00:54:29] [Xa lan] Vu khi tren tau: 20 So luong: 
+[00:54:29] [LOAI] Trong kho: 20 So luong: 
+[00:54:29] [May cua] Trong kho:: 10000 KG: 
+[00:54:29] [Mine] Trong kho: 10000 KG
+[00:54:29] Number of vehicle models: 0
+[00:54:29] ===============================
+[00:54:29] ===============================
+[00:54:29] Ket qua cua viec tai TO CHUC:
+[00:54:29] Da tim thay cac co so du lieu:		[23]
+[00:54:29] Bat dau ID:		[0]
+[00:54:29] Hang da tai:: [24/24]	[DONE]
+[00:54:29] ===============================
+[00:54:29] Ket qua tai KHUNG BO:
+[00:54:29] Da tim thay cac co so du lieu:		[124]
+[00:54:29] Hang da tai:: [123/123]	[DONE]
+[00:54:30] ===============================
+[00:54:30] Ket qua tai NHA:
+[00:54:30] Da tim thay cac co so du lieu:		[735]
+[00:54:30] Bat dau ID:		[0]
+[00:54:30] Hang da tai:: [736/736]	[DONE]
+[00:54:30] ===============================
+[00:54:30] Ket qua tai doanh nghiep:
+[00:54:30] Da tim thay cac co so du lieu:		[138]
+[00:54:30] Bat dau ID:		[0]
+[00:54:30] Hang da tai:: [139/139]	[DONE]
+[00:54:30] ===============================
+[00:54:30] Dang tai tram xang:
+[00:54:30] Da tim thay cac co so du lieu:		[15]
+[00:54:30] Bat dau ID:		[0]
+[00:54:30] Hang da tai:: [16/16]	[DONE]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:05:26] filterscripts = ""  (string)
+[12:05:26] 
+[12:05:26] Server Plugins
+[12:05:26] --------------
+[12:05:26]  Loading plugin: crashdetect
+[12:05:26]   CrashDetect plugin 4.19.4
+[12:05:26]   Loaded.
+[12:05:26]  Loading plugin: streamer
+[12:05:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:05:26]   Loaded.
+[12:05:26]  Loading plugin: sscanf
+[12:05:26] 
+
+[12:05:26]  ===============================
+
+[12:05:26]       sscanf plugin loaded.     
+
+[12:05:26]          Version:  2.8.3        
+
+[12:05:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:05:26]  ===============================
+
+[12:05:26]   Loaded.
+[12:05:26]  Loading plugin: mysql
+[12:05:26]  >> plugin.mysql: R41-4 successfully loaded.
+[12:05:26]   Loaded.
+[12:05:26]  Loading plugin: pawncmd
+[12:05:26] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:05:26]   Loaded.
+[12:05:26]  Loading plugin: RouteConnectorPlugin
+[12:05:26]   Loaded.
+[12:05:26]  Loaded 6 plugins.
+
+[12:05:26] 
+[12:05:26] Filterscripts
+[12:05:26] ---------------
+[12:05:26]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:05:43] filterscripts = ""  (string)
+[12:05:43] 
+[12:05:43] Server Plugins
+[12:05:43] --------------
+[12:05:43]  Loading plugin: crashdetect
+[12:05:43]   CrashDetect plugin 4.19.4
+[12:05:43]   Loaded.
+[12:05:43]  Loading plugin: streamer
+[12:05:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:05:43]   Loaded.
+[12:05:43]  Loading plugin: sscanf
+[12:05:43] 
+
+[12:05:43]  ===============================
+
+[12:05:43]       sscanf plugin loaded.     
+
+[12:05:43]          Version:  2.8.3        
+
+[12:05:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:05:43]  ===============================
+
+[12:05:43]   Loaded.
+[12:05:43]  Loading plugin: mysql
+[12:05:43]  >> plugin.mysql: R41-4 successfully loaded.
+[12:05:43]   Loaded.
+[12:05:43]  Loading plugin: pawncmd
+[12:05:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:05:43]   Loaded.
+[12:05:43]  Loading plugin: RouteConnectorPlugin
+[12:05:44]   Loaded.
+[12:05:44]  Loaded 6 plugins.
+
+[12:05:44] 
+[12:05:44] Filterscripts
+[12:05:44] ---------------
+[12:05:44]   Loaded 0 filterscripts.
+
+[12:05:44] Ket noi co so du lieu thanh cong
+[12:05:44] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[12:05:44] Ket qua tai CUA HANG LAM VIEC:
+[12:05:44] [Nha may thuc pham] Dong goi: 10000 KG: 
+[12:05:44] [Xa lan] Vu khi tren tau: 20 So luong: 
+[12:05:44] [LOAI] Trong kho: 20 So luong: 
+[12:05:44] [May cua] Trong kho:: 10000 KG: 
+[12:05:44] [Mine] Trong kho: 10000 KG
+[12:05:44] Number of vehicle models: 0
+[12:05:44] ===============================
+[12:05:44] ===============================
+[12:05:44] Ket qua cua viec tai TO CHUC:
+[12:05:44] Da tim thay cac co so du lieu:		[23]
+[12:05:44] Bat dau ID:		[0]
+[12:05:44] Hang da tai:: [24/24]	[DONE]
+[12:05:44] ===============================
+[12:05:44] Ket qua tai KHUNG BO:
+[12:05:44] Da tim thay cac co so du lieu:		[124]
+[12:05:44] Hang da tai:: [123/123]	[DONE]
+[12:05:45] ===============================
+[12:05:45] Ket qua tai NHA:
+[12:05:45] Da tim thay cac co so du lieu:		[735]
+[12:05:45] Bat dau ID:		[0]
+[12:05:45] Hang da tai:: [736/736]	[DONE]
+[12:05:45] ===============================
+[12:05:45] Ket qua tai doanh nghiep:
+[12:05:45] Da tim thay cac co so du lieu:		[138]
+[12:05:45] Bat dau ID:		[0]
+[12:05:45] Hang da tai:: [139/139]	[DONE]
+[12:05:45] ===============================
+[12:05:45] Dang tai tram xang:
+[12:05:45] Da tim thay cac co so du lieu:		[15]
+[12:05:45] Bat dau ID:		[0]
+[12:05:45] Hang da tai:: [16/16]	[DONE]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:06:01] filterscripts = ""  (string)
+[12:06:01] 
+[12:06:01] Server Plugins
+[12:06:01] --------------
+[12:06:01]  Loading plugin: crashdetect
+[12:06:01]   CrashDetect plugin 4.19.4
+[12:06:01]   Loaded.
+[12:06:01]  Loading plugin: streamer
+[12:06:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:06:01]   Loaded.
+[12:06:01]  Loading plugin: sscanf
+[12:06:01] 
+
+[12:06:01]  ===============================
+
+[12:06:01]       sscanf plugin loaded.     
+
+[12:06:01]          Version:  2.8.3        
+
+[12:06:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:06:01]  ===============================
+
+[12:06:01]   Loaded.
+[12:06:01]  Loading plugin: mysql
+[12:06:01]  >> plugin.mysql: R41-4 successfully loaded.
+[12:06:01]   Loaded.
+[12:06:01]  Loading plugin: pawncmd
+[12:06:01] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:06:01]   Loaded.
+[12:06:01]  Loading plugin: RouteConnectorPlugin
+[12:06:01]   Loaded.
+[12:06:01]  Loaded 6 plugins.
+
+[12:06:01] 
+[12:06:01] Filterscripts
+[12:06:01] ---------------
+[12:06:01]   Loaded 0 filterscripts.
+
+[12:06:01] Ket noi co so du lieu thanh cong
+[12:06:01] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[12:06:01] Ket qua tai CUA HANG LAM VIEC:
+[12:06:01] [Nha may thuc pham] Dong goi: 10000 KG: 
+[12:06:01] [Xa lan] Vu khi tren tau: 20 So luong: 
+[12:06:01] [LOAI] Trong kho: 20 So luong: 
+[12:06:01] [May cua] Trong kho:: 10000 KG: 
+[12:06:01] [Mine] Trong kho: 10000 KG
+[12:06:01] Number of vehicle models: 0
+[12:06:02] ===============================
+[12:06:02] ===============================
+[12:06:02] Ket qua cua viec tai TO CHUC:
+[12:06:02] Da tim thay cac co so du lieu:		[23]
+[12:06:02] Bat dau ID:		[0]
+[12:06:02] Hang da tai:: [24/24]	[DONE]
+[12:06:02] ===============================
+[12:06:02] Ket qua tai KHUNG BO:
+[12:06:02] Da tim thay cac co so du lieu:		[124]
+[12:06:02] Hang da tai:: [123/123]	[DONE]
+[12:06:02] ===============================
+[12:06:02] Ket qua tai NHA:
+[12:06:02] Da tim thay cac co so du lieu:		[735]
+[12:06:02] Bat dau ID:		[0]
+[12:06:02] Hang da tai:: [736/736]	[DONE]
+[12:06:02] ===============================
+[12:06:02] Ket qua tai doanh nghiep:
+[12:06:02] Da tim thay cac co so du lieu:		[138]
+[12:06:02] Bat dau ID:		[0]
+[12:06:02] Hang da tai:: [139/139]	[DONE]
+[12:06:02] ===============================
+[12:06:02] Dang tai tram xang:
+[12:06:02] Da tim thay cac co so du lieu:		[15]
+[12:06:02] Bat dau ID:		[0]
+[12:06:02] Hang da tai:: [16/16]	[DONE]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:29:55] filterscripts = ""  (string)
+[14:29:55] 
+[14:29:55] Server Plugins
+[14:29:55] --------------
+[14:29:55]  Loading plugin: crashdetect
+[14:29:55]   CrashDetect plugin 4.19.4
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: streamer
+[14:29:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: sscanf
+[14:29:55] 
+
+[14:29:55]  ===============================
+
+[14:29:55]       sscanf plugin loaded.     
+
+[14:29:55]          Version:  2.8.3        
+
+[14:29:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:29:55]  ===============================
+
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: mysql
+[14:29:55]  >> plugin.mysql: R41-4 successfully loaded.
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: pawncmd
+[14:29:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: RouteConnectorPlugin
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: samp-compat
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:30:05] filterscripts = ""  (string)
+[14:30:05] 
+[14:30:05] Server Plugins
+[14:30:05] --------------
+[14:30:05]  Loading plugin: crashdetect
+[14:30:05]   CrashDetect plugin 4.19.4
+[14:30:05]   Loaded.
+[14:30:05]  Loading plugin: streamer
+[14:30:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:30:05]   Loaded.
+[14:30:05]  Loading plugin: sscanf
+[14:30:05] 
+
+[14:30:05]  ===============================
+
+[14:30:05]       sscanf plugin loaded.     
+
+[14:30:05]          Version:  2.8.3        
+
+[14:30:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:30:05]  ===============================
+
+[14:30:05]   Loaded.
+[14:30:05]  Loading plugin: mysql
+[14:30:05]  >> plugin.mysql: R41-4 successfully loaded.
+[14:30:05]   Loaded.
+[14:30:05]  Loading plugin: pawncmd
+[14:30:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:30:05]   Loaded.
+[14:30:05]  Loading plugin: RouteConnectorPlugin
+[14:30:06]   Loaded.
+[14:30:06]  Loading plugin: samp-compat
+[14:30:06]   -- samp-compat for 0.3.DL-R1 initialized
+[14:30:06]   Loaded.
+[14:30:06]  Loading plugin: pawnraknet
+[14:30:06] [Pawn.RakNet] plugin v1.5.1 loading...
+[14:30:06] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[14:30:06]   Loaded.
+[14:30:06]  Loaded 8 plugins.
+
+[14:30:06] 
+[14:30:06] Filterscripts
+[14:30:06] ---------------
+[14:30:06]   Loaded 0 filterscripts.
+
+[14:30:06] Ket noi co so du lieu thanh cong
+[14:30:06] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[14:30:06] Ket qua tai CUA HANG LAM VIEC:
+[14:30:06] [Nha may thuc pham] Dong goi: 10000 KG: 
+[14:30:06] [Xa lan] Vu khi tren tau: 20 So luong: 
+[14:30:06] [LOAI] Trong kho: 20 So luong: 
+[14:30:06] [May cua] Trong kho:: 10000 KG: 
+[14:30:06] [Mine] Trong kho: 10000 KG
+[14:30:06] Number of vehicle models: 0
+[14:30:07] ===============================
+[14:30:07] ===============================
+[14:30:07] Ket qua cua viec tai TO CHUC:
+[14:30:07] Da tim thay cac co so du lieu:		[23]
+[14:30:07] Bat dau ID:		[0]
+[14:30:07] Hang da tai:: [24/24]	[DONE]
+[14:30:07] ===============================
+[14:30:07] Ket qua tai KHUNG BO:
+[14:30:07] Da tim thay cac co so du lieu:		[124]
+[14:30:07] Hang da tai:: [123/123]	[DONE]
+[14:30:08] ===============================
+[14:30:08] Ket qua tai NHA:
+[14:30:08] Da tim thay cac co so du lieu:		[735]
+[14:30:08] Bat dau ID:		[0]
+[14:30:08] Hang da tai:: [736/736]	[DONE]
+[14:30:08] ===============================
+[14:30:08] Ket qua tai doanh nghiep:
+[14:30:08] Da tim thay cac co so du lieu:		[138]
+[14:30:08] Bat dau ID:		[0]
+[14:30:08] Hang da tai:: [139/139]	[DONE]
+[14:30:08] ===============================
+[14:30:08] Dang tai tram xang:
+[14:30:08] Da tim thay cac co so du lieu:		[15]
+[14:30:08] Bat dau ID:		[0]
+[14:30:08] Hang da tai:: [16/16]	[DONE]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[15:31:57] filterscripts = ""  (string)
+[15:31:57] 
+[15:31:57] Server Plugins
+[15:31:57] --------------
+[15:31:57]  Loading plugin: crashdetect
+[15:31:57]   CrashDetect plugin 4.19.4
+[15:31:57]   Loaded.
+[15:31:57]  Loading plugin: streamer
+[15:31:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:31:57]   Loaded.
+[15:31:57]  Loading plugin: sscanf
+[15:31:57] 
+
+[15:31:57]  ===============================
+
+[15:31:57]       sscanf plugin loaded.     
+
+[15:31:57]          Version:  2.8.3        
+
+[15:31:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:31:57]  ===============================
+
+[15:31:57]   Loaded.
+[15:31:57]  Loading plugin: mysql
+[15:31:57]  >> plugin.mysql: R41-4 successfully loaded.
+[15:31:57]   Loaded.
+[15:31:57]  Loading plugin: pawncmd
+[15:31:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:31:57]   Loaded.
+[15:31:57]  Loading plugin: RouteConnectorPlugin
+[15:31:57]   Loaded.
+[15:31:57]  Loading plugin: samp-compat
+[15:31:57]   -- samp-compat for 0.3.DL-R1 initialized
+[15:31:57]   Loaded.
+[15:31:57]  Loading plugin: pawnraknet
+[15:31:57] [Pawn.RakNet] plugin v1.5.1 loading...
+[15:31:57] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[15:31:57]   Loaded.
+[15:31:57]  Loaded 8 plugins.
+
+[15:31:57] 
+[15:31:57] Filterscripts
+[15:31:57] ---------------
+[15:31:57]   Loaded 0 filterscripts.
+
+[15:31:58] Ket noi co so du lieu thanh cong
+[15:31:58] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[15:31:58] Ket qua tai CUA HANG LAM VIEC:
+[15:31:58] [Nha may thuc pham] Dong goi: 10000 KG: 
+[15:31:58] [Xa lan] Vu khi tren tau: 20 So luong: 
+[15:31:58] [LOAI] Trong kho: 20 So luong: 
+[15:31:58] [May cua] Trong kho:: 10000 KG: 
+[15:31:58] [Mine] Trong kho: 10000 KG
+[15:31:58] Number of vehicle models: 0
+[15:31:58] ===============================
+[15:31:58] ===============================
+[15:31:58] Ket qua cua viec tai TO CHUC:
+[15:31:58] Da tim thay cac co so du lieu:		[23]
+[15:31:58] Bat dau ID:		[0]
+[15:31:58] Hang da tai:: [24/24]	[DONE]
+[15:31:58] ===============================
+[15:31:58] Ket qua tai KHUNG BO:
+[15:31:58] Da tim thay cac co so du lieu:		[124]
+[15:31:58] Hang da tai:: [123/123]	[DONE]
+[15:31:59] ===============================
+[15:31:59] Ket qua tai NHA:
+[15:31:59] Da tim thay cac co so du lieu:		[735]
+[15:31:59] Bat dau ID:		[0]
+[15:31:59] Hang da tai:: [736/736]	[DONE]
+[15:32:00] ===============================
+[15:32:00] Ket qua tai doanh nghiep:
+[15:32:00] Da tim thay cac co so du lieu:		[138]
+[15:32:00] Bat dau ID:		[0]
+[15:32:00] Hang da tai:: [139/139]	[DONE]
+[15:32:00] ===============================
+[15:32:00] Dang tai tram xang:
+[15:32:00] Da tim thay cac co so du lieu:		[15]
+[15:32:00] Bat dau ID:		[0]
+[15:32:00] Hang da tai:: [16/16]	[DONE]
+[15:32:24] [connection] incoming connection: 127.0.0.1:50684 id: 0
+[15:32:25] [join] Master_Vu has joined the server (0:127.0.0.1)
+[15:40:13] [part] Master_Vu has left the server (0:1)
+[15:41:36] [connection] incoming connection: 127.0.0.1:61611 id: 0
+[15:41:36] [join] Master_Vu has joined the server (0:127.0.0.1)
+[15:55:22] [part] Master_Vu has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:51:03] filterscripts = ""  (string)
+[16:51:03] 
+[16:51:03] Server Plugins
+[16:51:03] --------------
+[16:51:03]  Loading plugin: crashdetect
+[16:51:03]   CrashDetect plugin 4.19.4
+[16:51:03]   Loaded.
+[16:51:03]  Loading plugin: streamer
+[16:51:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:51:03]   Loaded.
+[16:51:03]  Loading plugin: sscanf
+[16:51:03] 
+
+[16:51:03]  ===============================
+
+[16:51:03]       sscanf plugin loaded.     
+
+[16:51:03]          Version:  2.8.3        
+
+[16:51:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:51:03]  ===============================
+
+[16:51:03]   Loaded.
+[16:51:03]  Loading plugin: mysql
+[16:51:03]  >> plugin.mysql: R41-4 successfully loaded.
+[16:51:03]   Loaded.
+[16:51:03]  Loading plugin: pawncmd
+[16:51:03] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:51:03]   Loaded.
+[16:51:03]  Loading plugin: RouteConnectorPlugin
+[16:51:03]   Loaded.
+[16:51:03]  Loading plugin: samp-compat
+[16:51:03]   -- samp-compat for 0.3.DL-R1 initialized
+[16:51:03]   Loaded.
+[16:51:03]  Loading plugin: pawnraknet
+[16:51:03] [Pawn.RakNet] plugin v1.5.1 loading...
+[16:51:03] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[16:51:03]   Loaded.
+[16:51:03]  Loaded 8 plugins.
+
+[16:51:03] 
+[16:51:03] Filterscripts
+[16:51:03] ---------------
+[16:51:03]   Loaded 0 filterscripts.
+
+[16:51:03] Ket noi co so du lieu thanh cong
+[16:51:03] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[16:51:03] Ket qua tai CUA HANG LAM VIEC:
+[16:51:03] [Nha may thuc pham] Dong goi: 10000 KG: 
+[16:51:03] [Xa lan] Vu khi tren tau: 20 So luong: 
+[16:51:03] [LOAI] Trong kho: 20 So luong: 
+[16:51:03] [May cua] Trong kho:: 10000 KG: 
+[16:51:03] [Mine] Trong kho: 10000 KG
+[16:51:03] Number of vehicle models: 0
+[16:51:04] ===============================
+[16:51:04] ===============================
+[16:51:04] Ket qua cua viec tai TO CHUC:
+[16:51:04] Da tim thay cac co so du lieu:		[23]
+[16:51:04] Bat dau ID:		[0]
+[16:51:04] Hang da tai:: [24/24]	[DONE]
+[16:51:04] ===============================
+[16:51:04] Ket qua tai KHUNG BO:
+[16:51:04] Da tim thay cac co so du lieu:		[124]
+[16:51:04] Hang da tai:: [123/123]	[DONE]
+[16:51:05] ===============================
+[16:51:05] Ket qua tai NHA:
+[16:51:05] Da tim thay cac co so du lieu:		[735]
+[16:51:05] Bat dau ID:		[0]
+[16:51:05] Hang da tai:: [736/736]	[DONE]
+[16:51:05] ===============================
+[16:51:05] Ket qua tai doanh nghiep:
+[16:51:05] Da tim thay cac co so du lieu:		[138]
+[16:51:05] Bat dau ID:		[0]
+[16:51:05] Hang da tai:: [139/139]	[DONE]
+[16:51:05] ===============================
+[16:51:05] Dang tai tram xang:
+[16:51:05] Da tim thay cac co so du lieu:		[15]
+[16:51:05] Bat dau ID:		[0]
+[16:51:05] Hang da tai:: [16/16]	[DONE]
+[16:51:26] [connection] incoming connection: 127.0.0.1:49701 id: 0
+[16:51:27] [join] Master_Vu has joined the server (0:127.0.0.1)
+[17:11:37] [part] Master_Vu has left the server (0:0)
+[17:11:57] [connection] incoming connection: 127.0.0.1:51965 id: 0
+[17:11:58] [join] Master_Vu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:00:30] filterscripts = ""  (string)
+[23:00:30] 
+[23:00:30] Server Plugins
+[23:00:30] --------------
+[23:00:30]  Loading plugin: crashdetect
+[23:00:30]   Failed.
+[23:00:30]  Loading plugin: sampvoice
+[23:00:30] [sv:dbg:network:init] : module initializing...
+[23:00:30] [dbg:raknet:init] : module initializing...
+[23:00:30] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FA40)
+[23:00:30] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[23:00:30] [dbg:raknet:init] : module initialized
+[23:00:30] [sv:dbg:network:init] : module initialized
+[23:00:30]  -------------------------------------------    
+[23:00:30]    ___                __   __    _              
+[23:00:30]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:00:30]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:00:30]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:00:30]                   |_|                           
+[23:00:30]  -------------------------------------------    
+[23:00:30]            SampVoice by MOR loaded              
+[23:00:30]  -------------------------------------------    
+[23:00:30]   Loaded.
+[23:00:30]  Loading plugin: streamer
+[23:00:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:00:30]   Loaded.
+[23:00:30]  Loading plugin: sscanf
+[23:00:30] 
+
+[23:00:30]  ===============================
+
+[23:00:30]       sscanf plugin loaded.     
+
+[23:00:30]          Version:  2.8.3        
+
+[23:00:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:00:30]  ===============================
+
+[23:00:30]   Loaded.
+[23:00:30]  Loading plugin: mysql
+[23:00:30]  >> plugin.mysql: R41-4 successfully loaded.
+[23:00:30]   Loaded.
+[23:00:30]  Loading plugin: pawncmd
+[23:00:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:00:30]   Loaded.
+[23:00:30]  Loading plugin: RouteConnectorPlugin
+[23:00:30]   Loaded.
+[23:00:30]  Loading plugin: samp-compat
+[23:00:30]   -- samp-compat for 0.3.DL-R1 initialized
+[23:00:30]   Loaded.
+[23:00:30]  Loading plugin: pawnraknet
+[23:00:30] [Pawn.RakNet] plugin v1.5.1 loading...
+[23:00:30] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[23:00:30]   Loaded.
+[23:00:30]  Loaded 8 plugins.
+
+[23:00:30] 
+[23:00:30] Filterscripts
+[23:00:30] ---------------
+[23:00:30]   Loaded 0 filterscripts.
+
+[23:00:30] [sv:dbg:main:AmxLoad] : net game pointer (value:0260A0B8) received
+[23:00:30] [sv:dbg:network:bind] : voice server running on port 51126
+[23:00:30] Ket noi co so du lieu khong thanh cong [Loi khong xac dinh. Ma loi: 2019]
+[23:00:30] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[23:00:30] Ket qua tai CUA HANG LAM VIEC:
+[23:00:30] [Nha may thuc pham] Dong goi: 10000 KG: 
+[23:00:30] [Xa lan] Vu khi tren tau: 20 So luong: 
+[23:00:30] [LOAI] Trong kho: 20 So luong: 
+[23:00:30] [May cua] Trong kho:: 10000 KG: 
+[23:00:30] [Mine] Trong kho: 10000 KG
+[23:00:30] Number of vehicle models: 0
+[23:01:30]  -------------------------------------------
+[23:01:30]            SampVoice unloading...           
+[23:01:30]  -------------------------------------------
+[23:01:31] [dbg:raknet:free] : module releasing...
+[23:01:31] [dbg:raknet:free] : module released
+[23:01:31] [sv:dbg:network:free] : module releasing...
+[23:01:31] [sv:dbg:network:free] : module released
+[23:01:31] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:01:37] filterscripts = ""  (string)
+[23:01:37] 
+[23:01:37] Server Plugins
+[23:01:37] --------------
+[23:01:37]  Loading plugin: crashdetect
+[23:01:37]   Failed.
+[23:01:37]  Loading plugin: sampvoice
+[23:01:37] [sv:dbg:network:init] : module initializing...
+[23:01:37] [dbg:raknet:init] : module initializing...
+[23:01:37] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FA40)
+[23:01:37] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[23:01:37] [dbg:raknet:init] : module initialized
+[23:01:37] [sv:dbg:network:init] : module initialized
+[23:01:37]  -------------------------------------------    
+[23:01:37]    ___                __   __    _              
+[23:01:37]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:01:37]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:01:37]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:01:37]                   |_|                           
+[23:01:37]  -------------------------------------------    
+[23:01:37]            SampVoice by MOR loaded              
+[23:01:37]  -------------------------------------------    
+[23:01:37]   Loaded.
+[23:01:37]  Loading plugin: streamer
+[23:01:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:01:37]   Loaded.
+[23:01:37]  Loading plugin: sscanf
+[23:01:37] 
+
+[23:01:37]  ===============================
+
+[23:01:37]       sscanf plugin loaded.     
+
+[23:01:37]          Version:  2.8.3        
+
+[23:01:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:01:37]  ===============================
+
+[23:01:37]   Loaded.
+[23:01:37]  Loading plugin: mysql
+[23:01:37]  >> plugin.mysql: R41-4 successfully loaded.
+[23:01:37]   Loaded.
+[23:01:37]  Loading plugin: pawncmd
+[23:01:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:01:37]   Loaded.
+[23:01:37]  Loading plugin: RouteConnectorPlugin
+[23:01:37]   Loaded.
+[23:01:37]  Loading plugin: samp-compat
+[23:01:37]   -- samp-compat for 0.3.DL-R1 initialized
+[23:01:37]   Loaded.
+[23:01:37]  Loading plugin: pawnraknet
+[23:01:37] [Pawn.RakNet] plugin v1.5.1 loading...
+[23:01:37] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[23:01:37]   Loaded.
+[23:01:37]  Loaded 8 plugins.
+
+[23:01:37] 
+[23:01:37] Filterscripts
+[23:01:37] ---------------
+[23:01:37]   Loaded 0 filterscripts.
+
+[23:01:37] [sv:dbg:main:AmxLoad] : net game pointer (value:0254A060) received
+[23:01:37] [sv:dbg:network:bind] : voice server running on port 51128
+[23:01:37] Ket noi co so du lieu khong thanh cong [Loi khong xac dinh. Ma loi: 2019]
+[23:01:37] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[23:01:37] Ket qua tai CUA HANG LAM VIEC:
+[23:01:37] [Nha may thuc pham] Dong goi: 10000 KG: 
+[23:01:37] [Xa lan] Vu khi tren tau: 20 So luong: 
+[23:01:37] [LOAI] Trong kho: 20 So luong: 
+[23:01:37] [May cua] Trong kho:: 10000 KG: 
+[23:01:37] [Mine] Trong kho: 10000 KG
+[23:01:37] Number of vehicle models: 0
+[23:02:03]  -------------------------------------------
+[23:02:03]            SampVoice unloading...           
+[23:02:03]  -------------------------------------------
+[23:02:03] [dbg:raknet:free] : module releasing...
+[23:02:03] [dbg:raknet:free] : module released
+[23:02:03] [sv:dbg:network:free] : module releasing...
+[23:02:03] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:02:06] filterscripts = ""  (string)
+[23:02:06] 
+[23:02:06] Server Plugins
+[23:02:06] --------------
+[23:02:06]  Loading plugin: crashdetect
+[23:02:06]   Failed.
+[23:02:06]  Loading plugin: sampvoice
+[23:02:06] [sv:dbg:network:init] : module initializing...
+[23:02:06] [dbg:raknet:init] : module initializing...
+[23:02:06] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FA40)
+[23:02:06] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[23:02:06] [dbg:raknet:init] : module initialized
+[23:02:06] [sv:dbg:network:init] : module initialized
+[23:02:06]  -------------------------------------------    
+[23:02:06]    ___                __   __    _              
+[23:02:06]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:02:06]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:02:06]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:02:06]                   |_|                           
+[23:02:06]  -------------------------------------------    
+[23:02:06]            SampVoice by MOR loaded              
+[23:02:06]  -------------------------------------------    
+[23:02:06]   Loaded.
+[23:02:06]  Loading plugin: streamer
+[23:02:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:02:06]   Loaded.
+[23:02:06]  Loading plugin: sscanf
+[23:02:06] 
+
+[23:02:06]  ===============================
+
+[23:02:06]       sscanf plugin loaded.     
+
+[23:02:06]          Version:  2.8.3        
+
+[23:02:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:02:06]  ===============================
+
+[23:02:06]   Loaded.
+[23:02:06]  Loading plugin: mysql
+[23:02:06]  >> plugin.mysql: R41-4 successfully loaded.
+[23:02:06]   Loaded.
+[23:02:06]  Loading plugin: pawncmd
+[23:02:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:02:06]   Loaded.
+[23:02:06]  Loading plugin: RouteConnectorPlugin
+[23:02:06]   Loaded.
+[23:02:06]  Loading plugin: samp-compat
+[23:02:06]   -- samp-compat for 0.3.DL-R1 initialized
+[23:02:06]   Loaded.
+[23:02:06]  Loading plugin: pawnraknet
+[23:02:06] [Pawn.RakNet] plugin v1.5.1 loading...
+[23:02:06] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[23:02:06]   Loaded.
+[23:02:06]  Loaded 8 plugins.
+
+[23:02:06] 
+[23:02:06] Filterscripts
+[23:02:06] ---------------
+[23:02:06]   Loaded 0 filterscripts.
+
+[23:02:06] [sv:dbg:main:AmxLoad] : net game pointer (value:00B5A060) received
+[23:02:06] [sv:dbg:network:bind] : voice server running on port 51129
+[23:02:06] Ket noi co so du lieu khong thanh cong [Loi khong xac dinh. Ma loi: 2019]
+[23:02:06] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[23:02:06] Ket qua tai CUA HANG LAM VIEC:
+[23:02:06] [Nha may thuc pham] Dong goi: 10000 KG: 
+[23:02:06] [Xa lan] Vu khi tren tau: 20 So luong: 
+[23:02:06] [LOAI] Trong kho: 20 So luong: 
+[23:02:06] [May cua] Trong kho:: 10000 KG: 
+[23:02:06] [Mine] Trong kho: 10000 KG
+[23:02:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[23:06:19] filterscripts = ""  (string)
+[23:06:19] 
+[23:06:19] Server Plugins
+[23:06:19] --------------
+[23:06:19]  Loading plugin: crashdetect
+[23:06:19]   Failed.
+[23:06:19]  Loading plugin: sampvoice
+[23:06:19] [sv:dbg:network:init] : module initializing...
+[23:06:19] [dbg:raknet:init] : module initializing...
+[23:06:19] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FA40)
+[23:06:19] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[23:06:19] [dbg:raknet:init] : module initialized
+[23:06:19] [sv:dbg:network:init] : module initialized
+[23:06:19]  -------------------------------------------    
+[23:06:19]    ___                __   __    _              
+[23:06:19]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:06:19]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:06:19]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:06:19]                   |_|                           
+[23:06:19]  -------------------------------------------    
+[23:06:19]            SampVoice by MOR loaded              
+[23:06:19]  -------------------------------------------    
+[23:06:19]   Loaded.
+[23:06:19]  Loading plugin: streamer
+[23:06:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:06:19]   Loaded.
+[23:06:19]  Loading plugin: sscanf
+[23:06:19] 
+
+[23:06:19]  ===============================
+
+[23:06:19]       sscanf plugin loaded.     
+
+[23:06:19]          Version:  2.8.3        
+
+[23:06:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:06:19]  ===============================
+
+[23:06:19]   Loaded.
+[23:06:19]  Loading plugin: mysql
+[23:06:19]  >> plugin.mysql: R41-4 successfully loaded.
+[23:06:19]   Loaded.
+[23:06:19]  Loading plugin: pawncmd
+[23:06:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:06:19]   Loaded.
+[23:06:19]  Loading plugin: RouteConnectorPlugin
+[23:06:19]   Loaded.
+[23:06:19]  Loading plugin: samp-compat
+[23:06:19]   -- samp-compat for 0.3.DL-R1 initialized
+[23:06:19]   Loaded.
+[23:06:19]  Loading plugin: pawnraknet
+[23:06:19] [Pawn.RakNet] plugin v1.5.1 loading...
+[23:06:19] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.5.1 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 12:04:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[23:06:19]   Loaded.
+[23:06:19]  Loaded 8 plugins.
+
+[23:06:19] 
+[23:06:19] Filterscripts
+[23:06:19] ---------------
+[23:06:19]   Loaded 0 filterscripts.
+
+[23:06:19] [sv:dbg:main:AmxLoad] : net game pointer (value:0245A060) received
+[23:06:19] [sv:dbg:network:bind] : voice server running on port 51137
+[23:06:19] Ket noi co so du lieu khong thanh cong [Loi khong xac dinh. Ma loi: 2019]
+[23:06:19] ===================[BAT DAU TAI XUONG TU CO SO DU LIEU]===================
+[23:06:19] Ket qua tai CUA HANG LAM VIEC:
+[23:06:19] [Nha may thuc pham] Dong goi: 10000 KG: 
+[23:06:19] [Xa lan] Vu khi tren tau: 20 So luong: 
+[23:06:19] [LOAI] Trong kho: 20 So luong: 
+[23:06:19] [May cua] Trong kho:: 10000 KG: 
+[23:06:19] [Mine] Trong kho: 10000 KG
+[23:06:19] Number of vehicle models: 0
+[23:06:44] [connection] incoming connection: 127.0.0.1:55714 id: 0
+[23:06:44] [join] Master_Vu has joined the server (0:127.0.0.1)
+[23:06:48] [part] Master_Vu has left the server (0:1)
+[23:06:56]  -------------------------------------------
+[23:06:56]            SampVoice unloading...           
+[23:06:56]  -------------------------------------------
+[23:06:57] [dbg:raknet:free] : module releasing...
+[23:06:57] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:06:57] [dbg:raknet:free] : module released
+[23:06:57] [sv:dbg:network:free] : module releasing...
+[23:06:57] [sv:dbg:network:free] : module released
+[23:06:57] --- Server Shutting Down.
